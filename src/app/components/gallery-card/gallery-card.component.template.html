@@ -1,0 +1,16 @@
+<figure class="card">
+  <button
+    type="button"
+    class="card-button"
+    [attr.aria-label]="'Open ' + card.name + ' card'"
+    aria-haspopup="dialog"
+    (click)="cardSelected.emit(card)"
+  >
+    <img
+      [src]="card.src"
+      [alt]="card.alt"
+      loading="lazy"
+      decoding="async"
+    />
+  </button>
+</figure>

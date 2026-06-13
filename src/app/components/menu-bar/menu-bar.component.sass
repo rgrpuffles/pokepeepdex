@@ -1,0 +1,156 @@
+:host
+  display: block
+  position: fixed
+  inset: 0 0 auto 0
+  z-index: 10
+
+.chrome
+  display: flex
+  align-items: center
+  justify-content: space-between
+  gap: 1rem
+  flex-wrap: wrap
+  height: 78px
+  padding: 0 14px 0 18px
+  background: var(--surface-toolbar-shell)
+  border-bottom: 4px solid var(--border-toolbar-shell)
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.24)
+  transition: padding 220ms ease, box-shadow 220ms ease, background-color 220ms ease, border-color 220ms ease
+
+.brand-mark
+  display: inline-flex
+  align-items: center
+  justify-content: center
+  position: relative
+  flex: 0 0 auto
+  overflow: hidden
+  min-height: 52px
+  padding: 10px 16px 8px
+  border: 3px solid rgba(214, 156, 89, 0.82)
+  border-radius: 18px
+  background: linear-gradient(180deg, rgba(250, 244, 214, 0.94), rgba(213, 204, 161, 0.96)), repeating-linear-gradient(0deg, transparent 0 12px, rgba(64, 87, 57, 0.08) 12px 13px)
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.42), inset 0 -2px 0 rgba(86, 99, 62, 0.12), 0 0 0 1px rgba(247, 231, 193, 0.62)
+  font-family: var(--display)
+  font-size: 28px
+  line-height: 1
+  font-weight: 900
+  letter-spacing: 0.04em
+  text-transform: uppercase
+  white-space: nowrap
+  cursor: pointer
+  transition: transform 220ms ease, filter 220ms ease
+
+.brand-mark--caret
+  min-width: 0
+  min-height: 0
+  padding: 0.4rem 0.6rem
+  border-radius: 0.8rem
+  background: var(--surface-toolbar-control)
+
+  border-color: var(--border-toolbar-control)
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.16), inset 0 -2px 0 rgba(11, 24, 10, 0.28)
+  cursor: pointer
+  transition: transform 220ms ease, border-color 220ms ease, box-shadow 220ms ease, filter 220ms ease, padding 220ms ease, min-width 220ms ease, min-height 220ms ease, border-radius 220ms ease, background 220ms ease
+
+.brand-mark:hover
+  transform: translateY(-1px)
+  filter: saturate(1.06)
+
+.brand-mark--caret:hover
+  background: var(--surface-toolbar-control-hover)
+
+.brand-mark:disabled
+  transform: none
+  filter: none
+
+.brand-mark:focus-visible
+  outline: 2px solid rgba(255, 214, 140, 0.85)
+  outline-offset: 2px
+
+.brand-mark__state
+  position: absolute
+  inset: 0
+  display: flex
+  align-items: center
+  justify-content: center
+  gap: 0.05rem
+  opacity: 0
+  transform: scale(0.92)
+  transition: opacity 220ms ease, transform 220ms ease, filter 220ms ease
+  pointer-events: none
+
+.brand-mark__state--pp
+  position: relative
+  opacity: 1
+  transform: scale(1)
+
+.brand-mark--caret .brand-mark__state--pp
+  opacity: 0
+  transform: scale(0.88)
+
+.brand-mark--caret .brand-mark__state--caret
+  opacity: 1
+  transform: scale(1)
+
+.brand-letter
+  display: inline-block
+  line-height: 1
+  text-shadow: 1px 1px 0 rgba(250, 247, 226, 0.96)
+
+.brand-letter--peach
+  color: #f05b28
+
+.brand-letter--gold
+  color: #f7a62b
+  text-shadow: 1px 1px 0 rgba(250, 247, 226, 0.96), 0 0 1px rgba(140, 92, 18, 0.28)
+
+.brand-caret
+  display: inline-block
+  transform: translateY(-0.01em)
+  color: var(--text-toolbar-on-solid)
+  font-size: 0.8rem
+  line-height: 1
+
+
+
+.set-nav
+  display: flex
+  flex-wrap: wrap
+  gap: 0.5rem
+  align-items: center
+
+.set-nav a
+  display: grid
+  gap: 0.2rem
+  padding: 0 13px
+  height: var(--control-height)
+  border: 3px solid rgba(35, 52, 27, 0.3)
+  border-radius: var(--control-radius)
+  background: var(--surface-toolbar-control)
+  color: var(--text-toolbar-on-solid)
+  text-decoration: none
+  font-family: var(--mono)
+  font-size: 13px
+  text-transform: uppercase
+  letter-spacing: 0.05em
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.16), inset 0 -2px 0 rgba(11, 24, 10, 0.28)
+  place-items: center
+  transition: transform 0.12s ease, filter 0.12s ease, background 0.12s ease
+
+.set-nav a:hover
+  transform: translateY(-1px)
+  background: var(--surface-toolbar-control-hover)
+  filter: saturate(1.05)
+
+.set-nav a.active
+  background: linear-gradient(180deg, #df8a3a, #b65d22)
+  border-color: #a95b23
+  color: #fff4d9
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.2), inset 0 -2px 0 rgba(97, 44, 11, 0.28)
+
+.set-nav span
+  font-size: 13px
+  font-weight: 700
+  letter-spacing: 0.05em
+
+

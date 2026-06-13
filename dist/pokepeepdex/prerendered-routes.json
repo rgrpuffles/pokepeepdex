@@ -1,0 +1,7 @@
+{
+  "routes": {
+    "/pokepeepdex": {},
+    "/pokepeepdex/set-1": {},
+    "/pokepeepdex/set-2": {}
+  }
+}

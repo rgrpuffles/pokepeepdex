@@ -1,0 +1,35 @@
+@let currentSet = set();
+@let visibleSections = sectionsWithCards();
+@let visibleSummary = visibleSectionSummary();
+
+<main
+  class="set-page"
+  [style.--accent]="currentSet.accent"
+  [style.--accent-soft]="currentSet.accentSoft"
+  [style.--glow]="currentSet.glow"
+>
+  <app-set-summary
+    [currentSet]="currentSet"
+    [totalCards]="totalCards()"
+    [sections]="visibleSummary"
+    [scrollToSection]="scrollToSection"
+  />
+
+  <section class="search-settings">
+    <app-set-filter [guestArtists]="guestArtists()" [selectedArtist]="artistParam()" (selectedArtistChange)="onFilterSelect($event)"></app-set-filter>
+  </section>
+
+  @for (section of visibleSections; track section.key) {
+    @let cards = filteredCardsBySection()[section.key];
+    <app-gallery-section [section]="section" [cards]="cards" (cardSelected)="openCard($event)" />
+  }
+
+  @if (visibleSections.length === 0) {
+    <section class="empty-state" aria-live="polite">
+      <p>No cards match the current filter.</p>
+      <span>Try selecting a different guest artist or choose "ANY" to see the full set.</span>
+    </section>
+  }
+
+  <app-card-modal></app-card-modal>
+</main>

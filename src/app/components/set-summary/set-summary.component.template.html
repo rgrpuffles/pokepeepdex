@@ -1,0 +1,29 @@
+<section class="hero">
+  <div class="hero-copy">
+    <div class="hero-text">
+      <h2>{{ currentSet.title }}</h2>
+      <p class="hero-note">Set {{ currentSet.id.replace('set-', '') }}</p>
+      <img class="hero-pack-image" [src]="currentSet.packPath" [alt]="currentSet.title + ' pack'">
+    </div>
+  </div>
+
+  <aside class="stat-strip" aria-label="Set stats">
+    <div class="stat-total">
+      <span>Total cards</span>
+      <strong>{{ totalCards }}</strong>
+    </div>
+
+    @for (section of sections; track section.key) {
+      <button
+        type="button"
+        class="stat-link"
+        [attr.data-section]="section.key"
+        [style.--section-accent]="section.accent"
+        (click)="scrollToSection(section.key)"
+      >
+        <span>{{ section.label }}</span>
+        <strong>{{ section.count }}</strong>
+      </button>
+    }
+  </aside>
+</section>

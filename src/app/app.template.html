@@ -1,0 +1,12 @@
+<div class="shell">
+  <app-menu-bar
+    #chrome
+    [sets]="sets()"
+    [isAtTop]="isAtTop()"
+    [scrollToTop]="scrollToTop"
+  />
+
+  <div class="content">
+    <router-outlet />
+  </div>
+</div>

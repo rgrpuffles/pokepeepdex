@@ -1,0 +1,91 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "cli": {
+    "packageManager": "pnpm"
+  },
+  "newProjectRoot": "projects",
+  "projects": {
+    "pokepeepdex": {
+      "projectType": "application",
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "sass"
+        }
+      },
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular/build:application",
+          "options": {
+            "browser": "src/main.ts",
+            "tsConfig": "tsconfig.app.json",
+            "inlineStyleLanguage": "sass",
+            "assets": ["public", "src/assets"],
+            "styles": ["src/styles.sass"],
+            "server": "src/main.server.ts",
+            "outputMode": "static",
+            "security": {
+              "allowedHosts": []
+            },
+            "ssr": {
+              "entry": "src/server.ts"
+            }
+          },
+          "configurations": {
+            "production": {
+              "assets": [
+                "public",
+                {
+                  "glob": "**/*",
+                  "input": "src/assets",
+                  "ignore": ["cards/set-3/**/*", "cards/set-3.5/**/*"],
+                  "output": "assets"
+                }
+              ],
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kB",
+                  "maximumError": "1MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "4kB",
+                  "maximumError": "8kB"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "development": {
+              "optimization": false,
+              "extractLicenses": false,
+              "sourceMap": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "builder": "@angular/build:dev-server",
+          "configurations": {
+            "production": {
+              "buildTarget": "pokepeepdex:build:production"
+            },
+            "development": {
+              "buildTarget": "pokepeepdex:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "test": {
+          "builder": "@angular/build:unit-test"
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+@if (modal.selectedCard(); as card) {
+  <div class="card-modal-backdrop" role="presentation" (click)="close()">
+    <section class="card-modal" role="dialog" aria-modal="true" [attr.aria-label]="card.name" (click)="$event.stopPropagation()"
+      (touchstart)="onTouchStart($event)" (touchend)="onTouchEnd($event)">
+      <header class="card-modal-head">
+        <div class="card-modal-title-group">
+          <h3 class="card-modal-title">{{ card.name }}</h3>
+          @if (card.artist && card.artist !== 'PP') {
+            <p class="card-modal-artist">Artist: {{ card.artist }}</p>
+          }
+        </div>
+        <button type="button" class="card-modal-close" aria-label="Close modal" (click)="close()">
+          <i class="fa-solid fa-xmark" aria-hidden="true"></i>
+        </button>
+      </header>
+
+      <div class="card-modal-body">
+        <button type="button" class="card-modal-nav card-modal-nav-left" [class.is-hidden]="!modal.canPrev()" aria-label="Previous card" (click)="prev()" [disabled]="!modal.canPrev()">
+          <i class="fa-solid fa-chevron-left" aria-hidden="true"></i>
+        </button>
+
+        <div class="card-modal-image-frame">
+          <img class="card-modal-image" [src]="card.src" [alt]="card.alt" loading="eager" decoding="async" />
+        </div>
+
+        <button type="button" class="card-modal-nav card-modal-nav-right" [class.is-hidden]="!modal.canNext()" aria-label="Next card" (click)="next()" [disabled]="!modal.canNext()">
+          <i class="fa-solid fa-chevron-right" aria-hidden="true"></i>
+        </button>
+      </div>
+    </section>
+  </div>
+}

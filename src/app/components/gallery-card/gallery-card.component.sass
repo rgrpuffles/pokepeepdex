@@ -1,0 +1,35 @@
+.card
+  margin: 0
+  overflow: hidden
+  border-radius: 8px
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35), 0 3px 5px rgba(0, 0, 0, 0.25)
+  transform: translateY(0)
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease
+  aspect-ratio: 0.715
+
+.card-button
+  display: block
+  width: 100%
+  padding: 0
+  border: 0
+  background: transparent
+  cursor: pointer
+  text-align: left
+
+.card:hover
+  transform: translateY(-4px)
+  border-color: var(--accent)
+  box-shadow: 0 24px 44px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255, 255, 255, 0.08) inset
+
+.card:focus-within
+  transform: translateY(-4px)
+  box-shadow: 0 24px 44px rgba(0, 0, 0, 0.3), 0 0 0 2px color-mix(in srgb, var(--accent) 75%, white), 0 0 0 1px rgba(255, 255, 255, 0.08) inset
+
+.card img
+  display: block
+  width: calc(100% * (272 / 248))
+  margin-top: calc(-100% * (12 / 248))
+  margin-left: calc(-100% * (12 / 248))
+
+.card-button:focus-visible
+  outline: none
