@@ -1,0 +1,2112 @@
+{
+  "sets": [
+    {
+      "id": "set-1",
+      "code": "PPS",
+      "title": "Pokepeeps Start!",
+      "slug": "set-1",
+      "accent": "#3a86ff",
+      "accentSoft": "rgba(58, 134, 255, 0.14)",
+      "glow": "rgba(58, 134, 255, 0.42)",
+      "cards": {
+        "standard": [
+          {
+            "name": "0025 FREAKACHU",
+            "src": "assets/cards/set-1/1_0025_FREAKACHU_STANDARD_SET_BASE PP.avif",
+            "alt": "0025 FREAKACHU - Standard card from set-1"
+          },
+          {
+            "name": "0026 CRYCHU",
+            "src": "assets/cards/set-1/1_0026_CRYCHU_STANDARD_SET_BASE PP.avif",
+            "alt": "0026 CRYCHU - Standard card from set-1"
+          },
+          {
+            "name": "0058 WOOFLITHE",
+            "src": "assets/cards/set-1/1_0058_WOOFLITHE_STANDARD_SET_BASE PP.avif",
+            "alt": "0058 WOOFLITHE - Standard card from set-1"
+          },
+          {
+            "name": "0059 ARCAEIGHT",
+            "src": "assets/cards/set-1/1_0059_ARCAEIGHT_STANDARD_SET_BASE PP.avif",
+            "alt": "0059 ARCAEIGHT - Standard card from set-1"
+          },
+          {
+            "name": "0092 FASTLY",
+            "src": "assets/cards/set-1/1_0092_FASTLY_STANDARD_SET_BASE PP.avif",
+            "alt": "0092 FASTLY - Standard card from set-1"
+          },
+          {
+            "name": "0093 CORNTER",
+            "src": "assets/cards/set-1/1_0093_CORNTER_STANDARD_SET_BASE PP.avif",
+            "alt": "0093 CORNTER - Standard card from set-1"
+          },
+          {
+            "name": "0094 GANGRENE",
+            "src": "assets/cards/set-1/1_0094_GANGRENE_STANDARD_SET_BASE PP.avif",
+            "alt": "0094 GANGRENE - Standard card from set-1"
+          },
+          {
+            "name": "0133 TV",
+            "src": "assets/cards/set-1/1_0133_TV_STANDARD_SET_BASE PP.avif",
+            "alt": "0133 TV - Standard card from set-1"
+          },
+          {
+            "name": "0141 NAPRAS",
+            "src": "assets/cards/set-1/1_0141_NAPRAS_STANDARD_SET_BASE PP.avif",
+            "alt": "0141 NAPRAS - Standard card from set-1"
+          },
+          {
+            "name": "0175 TOEGEPI",
+            "src": "assets/cards/set-1/1_0175_TOEGEPI_STANDARD_SET_BASE PP.avif",
+            "alt": "0175 TOEGEPI - Standard card from set-1"
+          },
+          {
+            "name": "0197 SUNBREON",
+            "src": "assets/cards/set-1/1_0197_SUNBREON_STANDARD_SET_BASE PP.avif",
+            "alt": "0197 SUNBREON - Standard card from set-1"
+          },
+          {
+            "name": "0302 DISABLEDEYE",
+            "src": "assets/cards/set-1/1_0302_DISABLEDEYE_STANDARD_SET_BASE PP.avif",
+            "alt": "0302 DISABLEDEYE - Standard card from set-1"
+          },
+          {
+            "name": "0311 HUSTLE",
+            "src": "assets/cards/set-1/1_0311_HUSTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0311 HUSTLE - Standard card from set-1"
+          },
+          {
+            "name": "0312 TIENUN",
+            "src": "assets/cards/set-1/1_0312_TIENUN_STANDARD_SET_BASE PP.avif",
+            "alt": "0312 TIENUN - Standard card from set-1"
+          },
+          {
+            "name": "0328 T RAP",
+            "src": "assets/cards/set-1/1_0328_T RAP_STANDARD_SET_BASE PP.avif",
+            "alt": "0328 T RAP - Standard card from set-1"
+          },
+          {
+            "name": "0329 VIBRATE",
+            "src": "assets/cards/set-1/1_0329_VIBRATE_STANDARD_SET_BASE PP.avif",
+            "alt": "0329 VIBRATE - Standard card from set-1"
+          },
+          {
+            "name": "0330 HIGHGON",
+            "src": "assets/cards/set-1/1_0330_HIGHGON_STANDARD_SET_BASE PP.avif",
+            "alt": "0330 HIGHGON - Standard card from set-1"
+          },
+          {
+            "name": "0359 CABSOL",
+            "src": "assets/cards/set-1/1_0359_CABSOL_STANDARD_SET_BASE PP.avif",
+            "alt": "0359 CABSOL - Standard card from set-1"
+          },
+          {
+            "name": "0374 SMELLDUM",
+            "src": "assets/cards/set-1/1_0374_SMELLDUM_STANDARD_SET_BASE PP.avif",
+            "alt": "0374 SMELLDUM - Standard card from set-1"
+          },
+          {
+            "name": "0375 METWANG",
+            "src": "assets/cards/set-1/1_0375_METWANG_STANDARD_SET_BASE PP.avif",
+            "alt": "0375 METWANG - Standard card from set-1"
+          },
+          {
+            "name": "0376 VERY GROSS",
+            "src": "assets/cards/set-1/1_0376_VERY GROSS_STANDARD_SET_BASE PP.avif",
+            "alt": "0376 VERY GROSS - Standard card from set-1"
+          },
+          {
+            "name": "0470 GRASSEON",
+            "src": "assets/cards/set-1/1_0470_GRASSEON_STANDARD_SET_BASE PP.avif",
+            "alt": "0470 GRASSEON - Standard card from set-1"
+          },
+          {
+            "name": "0486 REGIBIGASS",
+            "src": "assets/cards/set-1/1_0486_REGIBIGASS_STANDARD_SET_BASE PP.avif",
+            "alt": "0486 REGIBIGASS - Standard card from set-1"
+          },
+          {
+            "name": "0546 COTTONWEEE",
+            "src": "assets/cards/set-1/1_0546_COTTONWEEE_STANDARD_SET_BASE PP.avif",
+            "alt": "0546 COTTONWEEE - Standard card from set-1"
+          },
+          {
+            "name": "0547 WHIMSI SHOT",
+            "src": "assets/cards/set-1/1_0547_WHIMSI SHOT_STANDARD_SET_BASE PP.avif",
+            "alt": "0547 WHIMSI SHOT - Standard card from set-1"
+          },
+          {
+            "name": "0720 POOPER",
+            "src": "assets/cards/set-1/1_0720_POOPER_STANDARD_SET_BASE PP.avif",
+            "alt": "0720 POOPER - Standard card from set-1"
+          },
+          {
+            "name": "0753 FOPANTIS",
+            "src": "assets/cards/set-1/1_0753_FOPANTIS_STANDARD_SET_BASE PP.avif",
+            "alt": "0753 FOPANTIS - Standard card from set-1"
+          },
+          {
+            "name": "0754 LEWDRANTIS",
+            "src": "assets/cards/set-1/1_0754_LEWDRANTIS_STANDARD_SET_BASE PP.avif",
+            "alt": "0754 LEWDRANTIS - Standard card from set-1"
+          },
+          {
+            "name": "0776 TOILETONATOR",
+            "src": "assets/cards/set-1/1_0776_TOILETONATOR_STANDARD_SET_BASE PP.avif",
+            "alt": "0776 TOILETONATOR - Standard card from set-1"
+          },
+          {
+            "name": "0885 SLEEPY",
+            "src": "assets/cards/set-1/1_0885_SLEEPY_STANDARD_SET_BASE PP.avif",
+            "alt": "0885 SLEEPY - Standard card from set-1"
+          },
+          {
+            "name": "0886 DRABLOKE",
+            "src": "assets/cards/set-1/1_0886_DRABLOKE_STANDARD_SET_BASE PP.avif",
+            "alt": "0886 DRABLOKE - Standard card from set-1"
+          },
+          {
+            "name": "0887 DADAPULT",
+            "src": "assets/cards/set-1/1_0887_DADAPULT_STANDARD_SET_BASE PP.avif",
+            "alt": "0887 DADAPULT - Standard card from set-1"
+          },
+          {
+            "name": "0925 RAT HOUSE",
+            "src": "assets/cards/set-1/1_0925_RAT HOUSE_STANDARD_SET_BASE PP.avif",
+            "alt": "0925 RAT HOUSE - Standard card from set-1"
+          },
+          {
+            "name": "0963 MINIZEN",
+            "src": "assets/cards/set-1/1_0963_MINIZEN_STANDARD_SET_BASE PP.avif",
+            "alt": "0963 MINIZEN - Standard card from set-1"
+          },
+          {
+            "name": "0964 POWERFIN",
+            "src": "assets/cards/set-1/1_0964_POWERFIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0964 POWERFIN - Standard card from set-1"
+          },
+          {
+            "name": "0964 SALADFIN",
+            "src": "assets/cards/set-1/1_0964_SALADFIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0964 SALADFIN - Standard card from set-1"
+          }
+        ],
+        "fullArt": [
+          {
+            "name": "0133 EEHEE",
+            "src": "assets/cards/set-1/1_0133_EEHEE_FULL ART_SET_BASE PP.avif",
+            "alt": "0133 EEHEE - Full Art card from set-1"
+          },
+          {
+            "name": "0330 FLY GON",
+            "src": "assets/cards/set-1/1_0330_FLY GON_FULL ART_SET_BASE PP.avif",
+            "alt": "0330 FLY GON - Full Art card from set-1"
+          },
+          {
+            "name": "0720 BOOPA",
+            "src": "assets/cards/set-1/1_0720_BOOPA_FULL ART_SET_BASE PP.avif",
+            "alt": "0720 BOOPA - Full Art card from set-1"
+          }
+        ],
+        "moment": [],
+        "aceTrainer": []
+      }
+    },
+    {
+      "id": "set-2",
+      "code": "SBS",
+      "title": "Serious Business",
+      "slug": "set-2",
+      "accent": "#4f46e5",
+      "accentSoft": "rgba(79, 70, 229, 0.14)",
+      "glow": "rgba(79, 70, 229, 0.42)",
+      "cards": {
+        "standard": [
+          {
+            "name": "0037 VULPITCH",
+            "src": "assets/cards/set-2/2_0037_VULPITCH_STANDARD_SET_BASE PP.avif",
+            "alt": "0037 VULPITCH - Standard card from set-2"
+          },
+          {
+            "name": "0038 NINEFAILS",
+            "src": "assets/cards/set-2/2_0038_NINEFAILS_STANDARD_SET_BASE PP.avif",
+            "alt": "0038 NINEFAILS - Standard card from set-2"
+          },
+          {
+            "name": "0043 WEIRDISH",
+            "src": "assets/cards/set-2/2_0043_WEIRDISH_STANDARD_SET_BASE PP.avif",
+            "alt": "0043 WEIRDISH - Standard card from set-2"
+          },
+          {
+            "name": "0044 SAD",
+            "src": "assets/cards/set-2/2_0044_SAD_STANDARD_SET_BASE PP.avif",
+            "alt": "0044 SAD - Standard card from set-2"
+          },
+          {
+            "name": "0045 SMILEPLUME",
+            "src": "assets/cards/set-2/2_0045_SMILEPLUME_STANDARD_SET_BASE PP.avif",
+            "alt": "0045 SMILEPLUME - Standard card from set-2"
+          },
+          {
+            "name": "0056 MONKE",
+            "src": "assets/cards/set-2/2_0056_MONKE_STANDARD_SET_BASE PP.avif",
+            "alt": "0056 MONKE - Standard card from set-2"
+          },
+          {
+            "name": "0057 PINEAPPLEAPE",
+            "src": "assets/cards/set-2/2_0057_PINEAPPLEAPE_STANDARD_SET_BASE PP.avif",
+            "alt": "0057 PINEAPPLEAPE - Standard card from set-2"
+          },
+          {
+            "name": "0095 SUBSONIX",
+            "src": "assets/cards/set-2/2_0095_SUBSONIX_STANDARD_SET_BASE PP.avif",
+            "alt": "0095 SUBSONIX - Standard card from set-2"
+          },
+          {
+            "name": "0135 BOLTEON",
+            "src": "assets/cards/set-2/2_0135_BOLTEON_STANDARD_SET_BASE PP.avif",
+            "alt": "0135 BOLTEON - Standard card from set-2"
+          },
+          {
+            "name": "0143 SMORELAX",
+            "src": "assets/cards/set-2/2_0143_SMORELAX_STANDARD_SET_BASE PP.avif",
+            "alt": "0143 SMORELAX - Standard card from set-2"
+          },
+          {
+            "name": "0147 DRABEANIE",
+            "src": "assets/cards/set-2/2_0147_DRABEANIE_STANDARD_SET_BASE PP.avif",
+            "alt": "0147 DRABEANIE - Standard card from set-2"
+          },
+          {
+            "name": "0148 DRAGONSTARE",
+            "src": "assets/cards/set-2/2_0148_DRAGONSTARE_STANDARD_SET_BASE PP.avif",
+            "alt": "0148 DRAGONSTARE - Standard card from set-2"
+          },
+          {
+            "name": "0149 DRAGONKNIGHT",
+            "src": "assets/cards/set-2/2_0149_DRAGONKNIGHT_STANDARD_SET_BASE PP.avif",
+            "alt": "0149 DRAGONKNIGHT - Standard card from set-2"
+          },
+          {
+            "name": "0155 SOOTYQUIL",
+            "src": "assets/cards/set-2/2_0155_SOOTYQUIL_STANDARD_SET_BASE PP.avif",
+            "alt": "0155 SOOTYQUIL - Standard card from set-2"
+          },
+          {
+            "name": "0156 CHILLAVA",
+            "src": "assets/cards/set-2/2_0156_CHILLAVA_STANDARD_SET_BASE PP.avif",
+            "alt": "0156 CHILLAVA - Standard card from set-2"
+          },
+          {
+            "name": "0157 TYEXPLODING",
+            "src": "assets/cards/set-2/2_0157_TYEXPLODING_STANDARD_SET_BASE PP.avif",
+            "alt": "0157 TYEXPLODING - Standard card from set-2"
+          },
+          {
+            "name": "0182 BLOSSOM",
+            "src": "assets/cards/set-2/2_0182_BLOSSOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0182 BLOSSOM - Standard card from set-2"
+          },
+          {
+            "name": "0208 FEELIX",
+            "src": "assets/cards/set-2/2_0208_FEELIX_STANDARD_SET_BASE PP.avif",
+            "alt": "0208 FEELIX - Standard card from set-2"
+          },
+          {
+            "name": "0213 BUCKLE",
+            "src": "assets/cards/set-2/2_0213_BUCKLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0213 BUCKLE - Standard card from set-2"
+          },
+          {
+            "name": "0214 HELLACROSS",
+            "src": "assets/cards/set-2/2_0214_HELLACROSS_STANDARD_SET_BASE PP.avif",
+            "alt": "0214 HELLACROSS - Standard card from set-2"
+          },
+          {
+            "name": "0220 SWIMNUB",
+            "src": "assets/cards/set-2/2_0220_SWIMNUB_STANDARD_SET_BASE PP.avif",
+            "alt": "0220 SWIMNUB - Standard card from set-2"
+          },
+          {
+            "name": "0221 PILLOWSWINE",
+            "src": "assets/cards/set-2/2_0221_PILLOWSWINE_STANDARD_SET_BASE PP.avif",
+            "alt": "0221 PILLOWSWINE - Standard card from set-2"
+          },
+          {
+            "name": "0227 SKAMOR",
+            "src": "assets/cards/set-2/2_0227_SKAMOR_STANDARD_SET_BASE PP.avif",
+            "alt": "0227 SKAMOR - Standard card from set-2"
+          },
+          {
+            "name": "0280 WALTZ",
+            "src": "assets/cards/set-2/2_0280_WALTZ_STANDARD_SET_BASE PP.avif",
+            "alt": "0280 WALTZ - Standard card from set-2"
+          },
+          {
+            "name": "0281 TWIRLIA",
+            "src": "assets/cards/set-2/2_0281_TWIRLIA_STANDARD_SET_BASE PP.avif",
+            "alt": "0281 TWIRLIA - Standard card from set-2"
+          },
+          {
+            "name": "0282 GARDEMA'AM",
+            "src": "assets/cards/set-2/2_0282_GARDEMA'AM_STANDARD_SET_BASE PP.avif",
+            "alt": "0282 GARDEMA'AM - Standard card from set-2"
+          },
+          {
+            "name": "0303 MAWILLY",
+            "src": "assets/cards/set-2/2_0303_MAWILLY_STANDARD_SET_BASE PP.avif",
+            "alt": "0303 MAWILLY - Standard card from set-2"
+          },
+          {
+            "name": "0304 IRON",
+            "src": "assets/cards/set-2/2_0304_IRON_STANDARD_SET_BASE PP.avif",
+            "alt": "0304 IRON - Standard card from set-2"
+          },
+          {
+            "name": "0305 LARRY",
+            "src": "assets/cards/set-2/2_0305_LARRY_STANDARD_SET_BASE PP.avif",
+            "alt": "0305 LARRY - Standard card from set-2"
+          },
+          {
+            "name": "0306 AGGRO",
+            "src": "assets/cards/set-2/2_0306_AGGRO_STANDARD_SET_BASE PP.avif",
+            "alt": "0306 AGGRO - Standard card from set-2"
+          },
+          {
+            "name": "0333 SWATBLU",
+            "src": "assets/cards/set-2/2_0333_SWATBLU_STANDARD_SET_BASE PP.avif",
+            "alt": "0333 SWATBLU - Standard card from set-2"
+          },
+          {
+            "name": "0334 ALTARIAFIC",
+            "src": "assets/cards/set-2/2_0334_ALTARIAFIC_STANDARD_SET_BASE PP.avif",
+            "alt": "0334 ALTARIAFIC - Standard card from set-2"
+          },
+          {
+            "name": "0335 GANGOOSE",
+            "src": "assets/cards/set-2/2_0335_GANGOOSE_STANDARD_SET_BASE PP.avif",
+            "alt": "0335 GANGOOSE - Standard card from set-2"
+          },
+          {
+            "name": "0336 DON VIPER",
+            "src": "assets/cards/set-2/2_0336_DON VIPER_STANDARD_SET_BASE PP.avif",
+            "alt": "0336 DON VIPER - Standard card from set-2"
+          },
+          {
+            "name": "0357 TROPICAL",
+            "src": "assets/cards/set-2/2_0357_TROPICAL_STANDARD_SET_BASE PP.avif",
+            "alt": "0357 TROPICAL - Standard card from set-2"
+          },
+          {
+            "name": "0382 FRYOGRE",
+            "src": "assets/cards/set-2/2_0382_FRYOGRE_STANDARD_SET_BASE PP.avif",
+            "alt": "0382 FRYOGRE - Standard card from set-2"
+          },
+          {
+            "name": "0383 GROU DON",
+            "src": "assets/cards/set-2/2_0383_GROU DON_STANDARD_SET_BASE PP.avif",
+            "alt": "0383 GROU DON - Standard card from set-2"
+          },
+          {
+            "name": "0384 RAYCRAZY",
+            "src": "assets/cards/set-2/2_0384_RAYCRAZY_STANDARD_SET_BASE PP.avif",
+            "alt": "0384 RAYCRAZY - Standard card from set-2"
+          },
+          {
+            "name": "0403 SPHINX",
+            "src": "assets/cards/set-2/2_0403_SPHINX_STANDARD_SET_BASE PP.avif",
+            "alt": "0403 SPHINX - Standard card from set-2"
+          },
+          {
+            "name": "0404 LUXI YO",
+            "src": "assets/cards/set-2/2_0404_LUXI YO_STANDARD_SET_BASE PP.avif",
+            "alt": "0404 LUXI YO - Standard card from set-2"
+          },
+          {
+            "name": "0405 BOXRAY",
+            "src": "assets/cards/set-2/2_0405_BOXRAY_STANDARD_SET_BASE PP.avif",
+            "alt": "0405 BOXRAY - Standard card from set-2"
+          },
+          {
+            "name": "0417 MACHI MACHIRISU",
+            "src": "assets/cards/set-2/2_0417_MACHI MACHIRISU_STANDARD_SET_BASE PP.avif",
+            "alt": "0417 MACHI MACHIRISU - Standard card from set-2"
+          },
+          {
+            "name": "0443 NIBBLE",
+            "src": "assets/cards/set-2/2_0443_NIBBLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0443 NIBBLE - Standard card from set-2"
+          },
+          {
+            "name": "0444 FATBITE",
+            "src": "assets/cards/set-2/2_0444_FATBITE_STANDARD_SET_BASE PP.avif",
+            "alt": "0444 FATBITE - Standard card from set-2"
+          },
+          {
+            "name": "0445 GARCHONK",
+            "src": "assets/cards/set-2/2_0445_GARCHONK_STANDARD_SET_BASE PP.avif",
+            "alt": "0445 GARCHONK - Standard card from set-2"
+          },
+          {
+            "name": "0446 MUNCHSNACKS",
+            "src": "assets/cards/set-2/2_0446_MUNCHSNACKS_STANDARD_SET_BASE PP.avif",
+            "alt": "0446 MUNCHSNACKS - Standard card from set-2"
+          },
+          {
+            "name": "0475 MR GALLADE",
+            "src": "assets/cards/set-2/2_0475_MR GALLADE_STANDARD_SET_BASE PP.avif",
+            "alt": "0475 MR GALLADE - Standard card from set-2"
+          },
+          {
+            "name": "0491 SHARKRAI",
+            "src": "assets/cards/set-2/2_0491_SHARKRAI_STANDARD_SET_BASE PP.avif",
+            "alt": "0491 SHARKRAI - Standard card from set-2"
+          },
+          {
+            "name": "0492 SKATEMIN",
+            "src": "assets/cards/set-2/2_0492_SKATEMIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0492 SKATEMIN - Standard card from set-2"
+          },
+          {
+            "name": "0492 STAYMIN",
+            "src": "assets/cards/set-2/2_0492_STAYMIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0492 STAYMIN - Standard card from set-2"
+          },
+          {
+            "name": "0493 ARCESUS",
+            "src": "assets/cards/set-2/2_0493_ARCESUS_STANDARD_SET_BASE PP.avif",
+            "alt": "0493 ARCESUS - Standard card from set-2"
+          },
+          {
+            "name": "0494 VICTEENY",
+            "src": "assets/cards/set-2/2_0494_VICTEENY_STANDARD_SET_BASE PP.avif",
+            "alt": "0494 VICTEENY - Standard card from set-2"
+          },
+          {
+            "name": "0570 ZORULA",
+            "src": "assets/cards/set-2/2_0570_ZORULA_STANDARD_SET_BASE PP.avif",
+            "alt": "0570 ZORULA - Standard card from set-2"
+          },
+          {
+            "name": "0571 ZOROROCK",
+            "src": "assets/cards/set-2/2_0571_ZOROROCK_STANDARD_SET_BASE PP.avif",
+            "alt": "0571 ZOROROCK - Standard card from set-2"
+          },
+          {
+            "name": "0624 CHAINSAWNIARD",
+            "src": "assets/cards/set-2/2_0624_CHAINSAWNIARD_STANDARD_SET_BASE PP.avif",
+            "alt": "0624 CHAINSAWNIARD - Standard card from set-2"
+          },
+          {
+            "name": "0625 GUYSHARP",
+            "src": "assets/cards/set-2/2_0625_GUYSHARP_STANDARD_SET_BASE PP.avif",
+            "alt": "0625 GUYSHARP - Standard card from set-2"
+          },
+          {
+            "name": "0631 HOTMOR",
+            "src": "assets/cards/set-2/2_0631_HOTMOR_STANDARD_SET_BASE PP.avif",
+            "alt": "0631 HOTMOR - Standard card from set-2"
+          },
+          {
+            "name": "0656 FROOKIE",
+            "src": "assets/cards/set-2/2_0656_FROOKIE_STANDARD_SET_BASE PP.avif",
+            "alt": "0656 FROOKIE - Standard card from set-2"
+          },
+          {
+            "name": "0657 FROGUARDIER",
+            "src": "assets/cards/set-2/2_0657_FROGUARDIER_STANDARD_SET_BASE PP.avif",
+            "alt": "0657 FROGUARDIER - Standard card from set-2"
+          },
+          {
+            "name": "0658 SIR NINJA",
+            "src": "assets/cards/set-2/2_0658_SIR NINJA_STANDARD_SET_BASE PP.avif",
+            "alt": "0658 SIR NINJA - Standard card from set-2"
+          },
+          {
+            "name": "0716 GURNEYAS",
+            "src": "assets/cards/set-2/2_0716_GURNEYAS_STANDARD_SET_BASE PP.avif",
+            "alt": "0716 GURNEYAS - Standard card from set-2"
+          },
+          {
+            "name": "0717 YEAH! VELTAL",
+            "src": "assets/cards/set-2/2_0717_YEAH! VELTAL_STANDARD_SET_BASE PP.avif",
+            "alt": "0717 YEAH! VELTAL - Standard card from set-2"
+          },
+          {
+            "name": "0725 LITTLE",
+            "src": "assets/cards/set-2/2_0725_LITTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0725 LITTLE - Standard card from set-2"
+          },
+          {
+            "name": "0726 TERRORCAT",
+            "src": "assets/cards/set-2/2_0726_TERRORCAT_STANDARD_SET_BASE PP.avif",
+            "alt": "0726 TERRORCAT - Standard card from set-2"
+          },
+          {
+            "name": "0727 INCINEMEOW",
+            "src": "assets/cards/set-2/2_0727_INCINEMEOW_STANDARD_SET_BASE PP.avif",
+            "alt": "0727 INCINEMEOW - Standard card from set-2"
+          },
+          {
+            "name": "0775 KOMALATANG",
+            "src": "assets/cards/set-2/2_0775_KOMALATANG_STANDARD_SET_BASE PP.avif",
+            "alt": "0775 KOMALATANG - Standard card from set-2"
+          },
+          {
+            "name": "0778 BBQ",
+            "src": "assets/cards/set-2/2_0778_BBQ_STANDARD_SET_BASE PP.avif",
+            "alt": "0778 BBQ - Standard card from set-2"
+          },
+          {
+            "name": "0808 MELTANNED",
+            "src": "assets/cards/set-2/2_0808_MELTANNED_STANDARD_SET_BASE PP.avif",
+            "alt": "0808 MELTANNED - Standard card from set-2"
+          },
+          {
+            "name": "0809 HELMETAL",
+            "src": "assets/cards/set-2/2_0809_HELMETAL_STANDARD_SET_BASE PP.avif",
+            "alt": "0809 HELMETAL - Standard card from set-2"
+          },
+          {
+            "name": "0835 YAPPER",
+            "src": "assets/cards/set-2/2_0835_YAPPER_STANDARD_SET_BASE PP.avif",
+            "alt": "0835 YAPPER - Standard card from set-2"
+          },
+          {
+            "name": "0836 BOLTUBBY",
+            "src": "assets/cards/set-2/2_0836_BOLTUBBY_STANDARD_SET_BASE PP.avif",
+            "alt": "0836 BOLTUBBY - Standard card from set-2"
+          },
+          {
+            "name": "0856 SHOENNA",
+            "src": "assets/cards/set-2/2_0856_SHOENNA_STANDARD_SET_BASE PP.avif",
+            "alt": "0856 SHOENNA - Standard card from set-2"
+          },
+          {
+            "name": "0857 SHOEREM",
+            "src": "assets/cards/set-2/2_0857_SHOEREM_STANDARD_SET_BASE PP.avif",
+            "alt": "0857 SHOEREM - Standard card from set-2"
+          },
+          {
+            "name": "0858 SHOERENE",
+            "src": "assets/cards/set-2/2_0858_SHOERENE_STANDARD_SET_BASE PP.avif",
+            "alt": "0858 SHOERENE - Standard card from set-2"
+          },
+          {
+            "name": "0872 SNOT",
+            "src": "assets/cards/set-2/2_0872_SNOT_STANDARD_SET_BASE PP.avif",
+            "alt": "0872 SNOT - Standard card from set-2"
+          },
+          {
+            "name": "0873 FROSMOTHER",
+            "src": "assets/cards/set-2/2_0873_FROSMOTHER_STANDARD_SET_BASE PP.avif",
+            "alt": "0873 FROSMOTHER - Standard card from set-2"
+          },
+          {
+            "name": "0957 TINKATHINK",
+            "src": "assets/cards/set-2/2_0957_TINKATHINK_STANDARD_SET_BASE PP.avif",
+            "alt": "0957 TINKATHINK - Standard card from set-2"
+          },
+          {
+            "name": "0958 THINK IS TUFF",
+            "src": "assets/cards/set-2/2_0958_THINK IS TUFF_STANDARD_SET_BASE PP.avif",
+            "alt": "0958 THINK IS TUFF - Standard card from set-2"
+          },
+          {
+            "name": "0959 THINKANONE",
+            "src": "assets/cards/set-2/2_0959_THINKANONE_STANDARD_SET_BASE PP.avif",
+            "alt": "0959 THINKANONE - Standard card from set-2"
+          },
+          {
+            "name": "0979 ANNIHIGRAPE",
+            "src": "assets/cards/set-2/2_0979_ANNIHIGRAPE_STANDARD_SET_BASE PP.avif",
+            "alt": "0979 ANNIHIGRAPE - Standard card from set-2"
+          },
+          {
+            "name": "0983 KINGAMBA",
+            "src": "assets/cards/set-2/2_0983_KINGAMBA_STANDARD_SET_BASE PP.avif",
+            "alt": "0983 KINGAMBA - Standard card from set-2"
+          }
+        ],
+        "fullArt": [
+          {
+            "name": "0038 NINESALES",
+            "src": "assets/cards/set-2/2_0038_NINESALES_FULL ART_SET_BASE PP.avif",
+            "alt": "0038 NINESALES - Full Art card from set-2"
+          },
+          {
+            "name": "0334 ALTIARA",
+            "src": "assets/cards/set-2/2_0334_ALTIARA_FULL ART_SET_BASE PP.avif",
+            "alt": "0334 ALTIARA - Full Art card from set-2"
+          },
+          {
+            "name": "0382 KYOGURRRL",
+            "src": "assets/cards/set-2/2_0382_KYOGURRRL_FULL ART_SET_BASE PP.avif",
+            "alt": "0382 KYOGURRRL - Full Art card from set-2"
+          },
+          {
+            "name": "0383 RAWRDON",
+            "src": "assets/cards/set-2/2_0383_RAWRDON_FULL ART_SET_BASE PP.avif",
+            "alt": "0383 RAWRDON - Full Art card from set-2"
+          },
+          {
+            "name": "0384 SLAYQUAZA",
+            "src": "assets/cards/set-2/2_0384_SLAYQUAZA_FULL ART_SET_BASE PP.avif",
+            "alt": "0384 SLAYQUAZA - Full Art card from set-2"
+          },
+          {
+            "name": "0492 CAFEMIN",
+            "src": "assets/cards/set-2/2_0492_CAFEMIN_FULL ART_SET_BASE PP.avif",
+            "alt": "0492 CAFEMIN - Full Art card from set-2"
+          },
+          {
+            "name": "0493 CARCEUS",
+            "src": "assets/cards/set-2/2_0493_CARCEUS_FULL ART_SET_BASE PP.avif",
+            "alt": "0493 CARCEUS - Full Art card from set-2"
+          },
+          {
+            "name": "0658 THE NINJA",
+            "src": "assets/cards/set-2/2_0658_THE NINJA_FULL ART_SET_BASE PP.avif",
+            "alt": "0658 THE NINJA - Full Art card from set-2"
+          },
+          {
+            "name": "0716 MY LITTLE XERNY",
+            "src": "assets/cards/set-2/2_0716_MY LITTLE XERNY_FULL ART_SET_BASE PP.avif",
+            "alt": "0716 MY LITTLE XERNY - Full Art card from set-2"
+          },
+          {
+            "name": "0717 YPETAL",
+            "src": "assets/cards/set-2/2_0717_YPETAL_FULL ART_SET_BASE PP.avif",
+            "alt": "0717 YPETAL - Full Art card from set-2"
+          },
+          {
+            "name": "0778 MIMI KYU",
+            "src": "assets/cards/set-2/2_0778_MIMI KYU_FULL ART_SET_BASE PP.avif",
+            "alt": "0778 MIMI KYU - Full Art card from set-2"
+          },
+          {
+            "name": "0872 NOM",
+            "src": "assets/cards/set-2/2_0872_NOM_FULL ART_SET_ALAN.avif",
+            "alt": "0872 NOM - Full Art card from set-2"
+          },
+          {
+            "name": "0959 THINK A TON",
+            "src": "assets/cards/set-2/2_0959_THINK A TON_FULL ART_SET_BASE PP.avif",
+            "alt": "0959 THINK A TON - Full Art card from set-2"
+          }
+        ],
+        "moment": [],
+        "aceTrainer": [
+          {
+            "name": "AINIA AND SHAYMIN",
+            "src": "assets/cards/set-2/2_ACE TRAINER_AINIA AND SHAYMIN_FULL ART_SET_BASE PP.avif",
+            "alt": "AINIA AND SHAYMIN - Ace Trainer card from set-2"
+          },
+          {
+            "name": "EDEN AND ARCEUS",
+            "src": "assets/cards/set-2/2_ACE TRAINER_EDEN AND ARCEUS_FULL ART_SET_BASE PP.avif",
+            "alt": "EDEN AND ARCEUS - Ace Trainer card from set-2"
+          },
+          {
+            "name": "GAIA AND RAYQUAZA",
+            "src": "assets/cards/set-2/2_ACE TRAINER_GAIA AND RAYQUAZA_FULL ART_SET_BASE PP.avif",
+            "alt": "GAIA AND RAYQUAZA - Ace Trainer card from set-2"
+          },
+          {
+            "name": "XUAN AND YVELTAL",
+            "src": "assets/cards/set-2/2_ACE TRAINER_XUAN AND YVELTAL_FULL ART_SET_BASE PP.avif",
+            "alt": "XUAN AND YVELTAL - Ace Trainer card from set-2"
+          },
+          {
+            "name": "YUHWI AND CHIEN-PAO",
+            "src": "assets/cards/set-2/2_ACE TRAINER_YUHWI AND CHIEN-PAO_FULL ART_SET_BASE PP.avif",
+            "alt": "YUHWI AND CHIEN-PAO - Ace Trainer card from set-2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set-3",
+      "code": "FFA",
+      "title": "Friends From Afar",
+      "slug": "set-3",
+      "accent": "#38bdf8",
+      "accentSoft": "rgba(56, 189, 248, 0.14)",
+      "glow": "rgba(56, 189, 248, 0.42)",
+      "cards": {
+        "standard": [
+          {
+            "name": "0010 ANTIMATTERPIE",
+            "src": "assets/cards/set-3/3_0010_ANTIMATTERPIE_STANDARD_SET_BASE PP.avif",
+            "alt": "0010 ANTIMATTERPIE - Standard card from set-3"
+          },
+          {
+            "name": "0011 METALPOD",
+            "src": "assets/cards/set-3/3_0011_METALPOD_STANDARD_SET_BASE PP.avif",
+            "alt": "0011 METALPOD - Standard card from set-3"
+          },
+          {
+            "name": "0012 BUTTEREFEREE",
+            "src": "assets/cards/set-3/3_0012_BUTTEREFEREE_STANDARD_SET_BASE PP.avif",
+            "alt": "0012 BUTTEREFEREE - Standard card from set-3"
+          },
+          {
+            "name": "0019 RAT AT A",
+            "src": "assets/cards/set-3/3_0019_RAT AT A_STANDARD_SET_GORDON.avif",
+            "alt": "0019 RAT AT A - Standard card from set-3"
+          },
+          {
+            "name": "0025 FREAKACHU",
+            "src": "assets/cards/set-3/3_0025_FREAKACHU_STANDARD_SET_BASE PP.avif",
+            "alt": "0025 FREAKACHU - Standard card from set-3"
+          },
+          {
+            "name": "0025 PEEKACHU",
+            "src": "assets/cards/set-3/3_0025_PEEKACHU_STANDARD_SET_BASE PP.avif",
+            "alt": "0025 PEEKACHU - Standard card from set-3"
+          },
+          {
+            "name": "0039 JIGGLYS",
+            "src": "assets/cards/set-3/3_0039_JIGGLYS_STANDARD_SET_BASE PP.avif",
+            "alt": "0039 JIGGLYS - Standard card from set-3"
+          },
+          {
+            "name": "0040 GIGGLYTUFF",
+            "src": "assets/cards/set-3/3_0040_GIGGLYTUFF_STANDARD_SET_BASE PP.avif",
+            "alt": "0040 GIGGLYTUFF - Standard card from set-3"
+          },
+          {
+            "name": "0041 ZUPAT",
+            "src": "assets/cards/set-3/3_0041_ZUPAT_STANDARD_SET_BASE PP.avif",
+            "alt": "0041 ZUPAT - Standard card from set-3"
+          },
+          {
+            "name": "0042 GOALIEBAT",
+            "src": "assets/cards/set-3/3_0042_GOALIEBAT_STANDARD_SET_BASE PP.avif",
+            "alt": "0042 GOALIEBAT - Standard card from set-3"
+          },
+          {
+            "name": "0043 WEIRDISH",
+            "src": "assets/cards/set-3/3_0043_WEIRDISH_STANDARD_SET_BASE PP.avif",
+            "alt": "0043 WEIRDISH - Standard card from set-3"
+          },
+          {
+            "name": "0054 THE PSY DUCK",
+            "src": "assets/cards/set-3/3_0054_THE PSY DUCK_STANDARD_SET_WYMAN.avif",
+            "alt": "0054 THE PSY DUCK - Standard card from set-3"
+          },
+          {
+            "name": "0063 ABBA",
+            "src": "assets/cards/set-3/3_0063_ABBA_STANDARD_SET_BASE PP.avif",
+            "alt": "0063 ABBA - Standard card from set-3"
+          },
+          {
+            "name": "0064 KEBABRA",
+            "src": "assets/cards/set-3/3_0064_KEBABRA_STANDARD_SET_BASE PP.avif",
+            "alt": "0064 KEBABRA - Standard card from set-3"
+          },
+          {
+            "name": "0065 ALAKASHAM",
+            "src": "assets/cards/set-3/3_0065_ALAKASHAM_STANDARD_SET_BASE PP.avif",
+            "alt": "0065 ALAKASHAM - Standard card from set-3"
+          },
+          {
+            "name": "0081 MAGNEMIGHT",
+            "src": "assets/cards/set-3/3_0081_MAGNEMIGHT_STANDARD_SET_BASE PP.avif",
+            "alt": "0081 MAGNEMIGHT - Standard card from set-3"
+          },
+          {
+            "name": "0082 MAGNEGUN",
+            "src": "assets/cards/set-3/3_0082_MAGNEGUN_STANDARD_SET_BASE PP.avif",
+            "alt": "0082 MAGNEGUN - Standard card from set-3"
+          },
+          {
+            "name": "0083 CLOSEFETCH'D",
+            "src": "assets/cards/set-3/3_0083_CLOSEFETCH'D_STANDARD_SET_BASE PP.avif",
+            "alt": "0083 CLOSEFETCH'D - Standard card from set-3"
+          },
+          {
+            "name": "0088 GRANDMA",
+            "src": "assets/cards/set-3/3_0088_GRANDMA_STANDARD_SET_BASE PP.avif",
+            "alt": "0088 GRANDMA - Standard card from set-3"
+          },
+          {
+            "name": "0089 FUK",
+            "src": "assets/cards/set-3/3_0089_FUK_STANDARD_SET_BASE PP.avif",
+            "alt": "0089 FUK - Standard card from set-3"
+          },
+          {
+            "name": "0104 CUBALONE",
+            "src": "assets/cards/set-3/3_0104_CUBALONE_STANDARD_SET_BASE PP.avif",
+            "alt": "0104 CUBALONE - Standard card from set-3"
+          },
+          {
+            "name": "0105 MUMROWAK",
+            "src": "assets/cards/set-3/3_0105_MUMROWAK_STANDARD_SET_BASE PP.avif",
+            "alt": "0105 MUMROWAK - Standard card from set-3"
+          },
+          {
+            "name": "0109 COUGHING",
+            "src": "assets/cards/set-3/3_0109_COUGHING_STANDARD_SET_BASE PP.avif",
+            "alt": "0109 COUGHING - Standard card from set-3"
+          },
+          {
+            "name": "0110 WHEEZING",
+            "src": "assets/cards/set-3/3_0110_WHEEZING_STANDARD_SET_BASE PP.avif",
+            "alt": "0110 WHEEZING - Standard card from set-3"
+          },
+          {
+            "name": "0116 HORSI SENOR",
+            "src": "assets/cards/set-3/3_0116_HORSI SENOR_STANDARD_SET_BASE PP.avif",
+            "alt": "0116 HORSI SENOR - Standard card from set-3"
+          },
+          {
+            "name": "0117 SEADRAMA",
+            "src": "assets/cards/set-3/3_0117_SEADRAMA_STANDARD_SET_BASE PP.avif",
+            "alt": "0117 SEADRAMA - Standard card from set-3"
+          },
+          {
+            "name": "0133 EEPY",
+            "src": "assets/cards/set-3/3_0133_EEPY_STANDARD_SET_TRINITY.avif",
+            "alt": "0133 EEPY - Standard card from set-3"
+          },
+          {
+            "name": "0134 VAPAWREON",
+            "src": "assets/cards/set-3/3_0134_VAPAWREON_STANDARD_SET_BASE PP.avif",
+            "alt": "0134 VAPAWREON - Standard card from set-3"
+          },
+          {
+            "name": "0149 DRAGONKNIGHT",
+            "src": "assets/cards/set-3/3_0149_DRAGONKNIGHT_STANDARD_SET_BASE PP.avif",
+            "alt": "0149 DRAGONKNIGHT - Standard card from set-3"
+          },
+          {
+            "name": "0169 CROCHETBAT",
+            "src": "assets/cards/set-3/3_0169_CROCHETBAT_STANDARD_SET_BASE PP.avif",
+            "alt": "0169 CROCHETBAT - Standard card from set-3"
+          },
+          {
+            "name": "0172 PICNICHU",
+            "src": "assets/cards/set-3/3_0172_PICNICHU_STANDARD_SET_WYMAN.avif",
+            "alt": "0172 PICNICHU - Standard card from set-3"
+          },
+          {
+            "name": "0174 ICKYBUFF",
+            "src": "assets/cards/set-3/3_0174_ICKYBUFF_STANDARD_SET_BASE PP.avif",
+            "alt": "0174 ICKYBUFF - Standard card from set-3"
+          },
+          {
+            "name": "0175 TOGEPEACE",
+            "src": "assets/cards/set-3/3_0175_TOGEPEACE_STANDARD_SET_TRINITY.avif",
+            "alt": "0175 TOGEPEACE - Standard card from set-3"
+          },
+          {
+            "name": "0176 TOGETICKED",
+            "src": "assets/cards/set-3/3_0176_TOGETICKED_STANDARD_SET_TRINITY.avif",
+            "alt": "0176 TOGETICKED - Standard card from set-3"
+          },
+          {
+            "name": "0179 MARIP",
+            "src": "assets/cards/set-3/3_0179_MARIP_STANDARD_SET_BASE PP.avif",
+            "alt": "0179 MARIP - Standard card from set-3"
+          },
+          {
+            "name": "0180 FLATFEET",
+            "src": "assets/cards/set-3/3_0180_FLATFEET_STANDARD_SET_BASE PP.avif",
+            "alt": "0180 FLATFEET - Standard card from set-3"
+          },
+          {
+            "name": "0181 CAMPHAROS",
+            "src": "assets/cards/set-3/3_0181_CAMPHAROS_STANDARD_SET_BASE PP.avif",
+            "alt": "0181 CAMPHAROS - Standard card from set-3"
+          },
+          {
+            "name": "0196 ESPEARON",
+            "src": "assets/cards/set-3/3_0196_ESPEARON_STANDARD_SET_BASE PP.avif",
+            "alt": "0196 ESPEARON - Standard card from set-3"
+          },
+          {
+            "name": "0202 WOBBLY FEET",
+            "src": "assets/cards/set-3/3_0202_WOBBLY FEET_STANDARD_SET_BASE PP.avif",
+            "alt": "0202 WOBBLY FEET - Standard card from set-3"
+          },
+          {
+            "name": "0209 SNOTBULL",
+            "src": "assets/cards/set-3/3_0209_SNOTBULL_STANDARD_SET_BASE PP.avif",
+            "alt": "0209 SNOTBULL - Standard card from set-3"
+          },
+          {
+            "name": "0210 GRANDPABULL",
+            "src": "assets/cards/set-3/3_0210_GRANDPABULL_STANDARD_SET_BASE PP.avif",
+            "alt": "0210 GRANDPABULL - Standard card from set-3"
+          },
+          {
+            "name": "0214 HERAGLOSS",
+            "src": "assets/cards/set-3/3_0214_HERAGLOSS_STANDARD_SET_BASE PP.avif",
+            "alt": "0214 HERAGLOSS - Standard card from set-3"
+          },
+          {
+            "name": "0230 QUEENDRA",
+            "src": "assets/cards/set-3/3_0230_QUEENDRA_STANDARD_SET_BASE PP.avif",
+            "alt": "0230 QUEENDRA - Standard card from set-3"
+          },
+          {
+            "name": "0246 LAVATAR",
+            "src": "assets/cards/set-3/3_0246_LAVATAR_STANDARD_SET_BASE PP.avif",
+            "alt": "0246 LAVATAR - Standard card from set-3"
+          },
+          {
+            "name": "0247 PUPILTAR",
+            "src": "assets/cards/set-3/3_0247_PUPILTAR_STANDARD_SET_BASE PP.avif",
+            "alt": "0247 PUPILTAR - Standard card from set-3"
+          },
+          {
+            "name": "0248 TYRANTAR",
+            "src": "assets/cards/set-3/3_0248_TYRANTAR_STANDARD_SET_BASE PP.avif",
+            "alt": "0248 TYRANTAR - Standard card from set-3"
+          },
+          {
+            "name": "0249 BOOGIEA",
+            "src": "assets/cards/set-3/3_0249_BOOGIEA_STANDARD_SET_BASE PP.avif",
+            "alt": "0249 BOOGIEA - Standard card from set-3"
+          },
+          {
+            "name": "0250 HO-BO",
+            "src": "assets/cards/set-3/3_0250_HO-BO_STANDARD_SET_BASE PP.avif",
+            "alt": "0250 HO-BO - Standard card from set-3"
+          },
+          {
+            "name": "0252 BUSHKO",
+            "src": "assets/cards/set-3/3_0252_BUSHKO_STANDARD_SET_BASE PP.avif",
+            "alt": "0252 BUSHKO - Standard card from set-3"
+          },
+          {
+            "name": "0253 GROOVY",
+            "src": "assets/cards/set-3/3_0253_GROOVY_STANDARD_SET_BASE PP.avif",
+            "alt": "0253 GROOVY - Standard card from set-3"
+          },
+          {
+            "name": "0254 SCEPTIRED",
+            "src": "assets/cards/set-3/3_0254_SCEPTIRED_STANDARD_SET_BASE PP.avif",
+            "alt": "0254 SCEPTIRED - Standard card from set-3"
+          },
+          {
+            "name": "0255 CLAWCHIC",
+            "src": "assets/cards/set-3/3_0255_CLAWCHIC_STANDARD_SET_BASE PP.avif",
+            "alt": "0255 CLAWCHIC - Standard card from set-3"
+          },
+          {
+            "name": "0256 COMASKEN",
+            "src": "assets/cards/set-3/3_0256_COMASKEN_STANDARD_SET_BASE PP.avif",
+            "alt": "0256 COMASKEN - Standard card from set-3"
+          },
+          {
+            "name": "0257 RAZEIKEN",
+            "src": "assets/cards/set-3/3_0257_RAZEIKEN_STANDARD_SET_BASE PP.avif",
+            "alt": "0257 RAZEIKEN - Standard card from set-3"
+          },
+          {
+            "name": "0258 MUD COP",
+            "src": "assets/cards/set-3/3_0258_MUD COP_STANDARD_SET_BASE PP.avif",
+            "alt": "0258 MUD COP - Standard card from set-3"
+          },
+          {
+            "name": "0259 MARSHAL TOM",
+            "src": "assets/cards/set-3/3_0259_MARSHAL TOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0259 MARSHAL TOM - Standard card from set-3"
+          },
+          {
+            "name": "0260 SWAMPATROL",
+            "src": "assets/cards/set-3/3_0260_SWAMPATROL_STANDARD_SET_BASE PP.avif",
+            "alt": "0260 SWAMPATROL - Standard card from set-3"
+          },
+          {
+            "name": "0261 POOPYENA",
+            "src": "assets/cards/set-3/3_0261_POOPYENA_STANDARD_SET_BASE PP.avif",
+            "alt": "0261 POOPYENA - Standard card from set-3"
+          },
+          {
+            "name": "0262 NIGHTYENA",
+            "src": "assets/cards/set-3/3_0262_NIGHTYENA_STANDARD_SET_BASE PP.avif",
+            "alt": "0262 NIGHTYENA - Standard card from set-3"
+          },
+          {
+            "name": "0285 SHROOMS",
+            "src": "assets/cards/set-3/3_0285_SHROOMS_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0285 SHROOMS - Standard card from set-3"
+          },
+          {
+            "name": "0286 BALLOON",
+            "src": "assets/cards/set-3/3_0286_BALLOON_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0286 BALLOON - Standard card from set-3"
+          },
+          {
+            "name": "0290 BINCADA",
+            "src": "assets/cards/set-3/3_0290_BINCADA_STANDARD_SET_BASE PP.avif",
+            "alt": "0290 BINCADA - Standard card from set-3"
+          },
+          {
+            "name": "0291 NINJAZZ",
+            "src": "assets/cards/set-3/3_0291_NINJAZZ_STANDARD_SET_BASE PP.avif",
+            "alt": "0291 NINJAZZ - Standard card from set-3"
+          },
+          {
+            "name": "0292 SHEGINGER",
+            "src": "assets/cards/set-3/3_0292_SHEGINGER_STANDARD_SET_BASE PP.avif",
+            "alt": "0292 SHEGINGER - Standard card from set-3"
+          },
+          {
+            "name": "0293 HISSMUR",
+            "src": "assets/cards/set-3/3_0293_HISSMUR_STANDARD_SET_BASE PP.avif",
+            "alt": "0293 HISSMUR - Standard card from set-3"
+          },
+          {
+            "name": "0294 QUIETRED",
+            "src": "assets/cards/set-3/3_0294_QUIETRED_STANDARD_SET_BASE PP.avif",
+            "alt": "0294 QUIETRED - Standard card from set-3"
+          },
+          {
+            "name": "0295 EXPROUD",
+            "src": "assets/cards/set-3/3_0295_EXPROUD_STANDARD_SET_BASE PP.avif",
+            "alt": "0295 EXPROUD - Standard card from set-3"
+          },
+          {
+            "name": "0300 SKINNY",
+            "src": "assets/cards/set-3/3_0300_SKINNY_STANDARD_SET_TRINITY.avif",
+            "alt": "0300 SKINNY - Standard card from set-3"
+          },
+          {
+            "name": "0301 DELFATTY",
+            "src": "assets/cards/set-3/3_0301_DELFATTY_STANDARD_SET_TRINITY.avif",
+            "alt": "0301 DELFATTY - Standard card from set-3"
+          },
+          {
+            "name": "0303 MAWSMILE",
+            "src": "assets/cards/set-3/3_0303_MAWSMILE_STANDARD_SET_BASE PP.avif",
+            "alt": "0303 MAWSMILE - Standard card from set-3"
+          },
+          {
+            "name": "0311 HUSTLE",
+            "src": "assets/cards/set-3/3_0311_HUSTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0311 HUSTLE - Standard card from set-3"
+          },
+          {
+            "name": "0312 TIENUN",
+            "src": "assets/cards/set-3/3_0312_TIENUN_STANDARD_SET_BASE PP.avif",
+            "alt": "0312 TIENUN - Standard card from set-3"
+          },
+          {
+            "name": "0315 ROSELITA",
+            "src": "assets/cards/set-3/3_0315_ROSELITA_STANDARD_SET_SOPHIA.avif",
+            "alt": "0315 ROSELITA - Standard card from set-3"
+          },
+          {
+            "name": "0333 SWABLUBERRY",
+            "src": "assets/cards/set-3/3_0333_SWABLUBERRY_STANDARD_SET_TRINITY.avif",
+            "alt": "0333 SWABLUBERRY - Standard card from set-3"
+          },
+          {
+            "name": "0334 ALTARTRIA",
+            "src": "assets/cards/set-3/3_0334_ALTARTRIA_STANDARD_SET_TRINITY.avif",
+            "alt": "0334 ALTARTRIA - Standard card from set-3"
+          },
+          {
+            "name": "0337 LUNATONED",
+            "src": "assets/cards/set-3/3_0337_LUNATONED_STANDARD_SET_BASE PP.avif",
+            "alt": "0337 LUNATONED - Standard card from set-3"
+          },
+          {
+            "name": "0338 SOLDOC",
+            "src": "assets/cards/set-3/3_0338_SOLDOC_STANDARD_SET_BASE PP.avif",
+            "alt": "0338 SOLDOC - Standard card from set-3"
+          },
+          {
+            "name": "0351 FASTFORM",
+            "src": "assets/cards/set-3/3_0351_FASTFORM_STANDARD_SET_BASE PP.avif",
+            "alt": "0351 FASTFORM - Standard card from set-3"
+          },
+          {
+            "name": "0360 WYSTRONAUT",
+            "src": "assets/cards/set-3/3_0360_WYSTRONAUT_STANDARD_SET_BASE PP.avif",
+            "alt": "0360 WYSTRONAUT - Standard card from set-3"
+          },
+          {
+            "name": "0370 LUV DISC",
+            "src": "assets/cards/set-3/3_0370_LUV DISC_STANDARD_SET_BASE PP.avif",
+            "alt": "0370 LUV DISC - Standard card from set-3"
+          },
+          {
+            "name": "0371 BACON",
+            "src": "assets/cards/set-3/3_0371_BACON_STANDARD_SET_BASE PP.avif",
+            "alt": "0371 BACON - Standard card from set-3"
+          },
+          {
+            "name": "0372 EGGSHELLGON",
+            "src": "assets/cards/set-3/3_0372_EGGSHELLGON_STANDARD_SET_BASE PP.avif",
+            "alt": "0372 EGGSHELLGON - Standard card from set-3"
+          },
+          {
+            "name": "0373 SALAMINCE",
+            "src": "assets/cards/set-3/3_0373_SALAMINCE_STANDARD_SET_BASE PP.avif",
+            "alt": "0373 SALAMINCE - Standard card from set-3"
+          },
+          {
+            "name": "0377 REGILOCKS",
+            "src": "assets/cards/set-3/3_0377_REGILOCKS_STANDARD_SET_BASE PP.avif",
+            "alt": "0377 REGILOCKS - Standard card from set-3"
+          },
+          {
+            "name": "0378 READYICE",
+            "src": "assets/cards/set-3/3_0378_READYICE_STANDARD_SET_BASE PP.avif",
+            "alt": "0378 READYICE - Standard card from set-3"
+          },
+          {
+            "name": "0379 REGIHEEL",
+            "src": "assets/cards/set-3/3_0379_REGIHEEL_STANDARD_SET_BASE PP.avif",
+            "alt": "0379 REGIHEEL - Standard card from set-3"
+          },
+          {
+            "name": "0385 JIRACHEESE",
+            "src": "assets/cards/set-3/3_0385_JIRACHEESE_STANDARD_SET_BASE PP.avif",
+            "alt": "0385 JIRACHEESE - Standard card from set-3"
+          },
+          {
+            "name": "0387 SKRT SKRTWIG",
+            "src": "assets/cards/set-3/3_0387_SKRT SKRTWIG_STANDARD_SET_BASE PP.avif",
+            "alt": "0387 SKRT SKRTWIG - Standard card from set-3"
+          },
+          {
+            "name": "0388 BOTTLE",
+            "src": "assets/cards/set-3/3_0388_BOTTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0388 BOTTLE - Standard card from set-3"
+          },
+          {
+            "name": "0389 TALLTERRA",
+            "src": "assets/cards/set-3/3_0389_TALLTERRA_STANDARD_SET_BASE PP.avif",
+            "alt": "0389 TALLTERRA - Standard card from set-3"
+          },
+          {
+            "name": "0390 CHIMCHARMANDER",
+            "src": "assets/cards/set-3/3_0390_CHIMCHARMANDER_STANDARD_SET_BASE PP.avif",
+            "alt": "0390 CHIMCHARMANDER - Standard card from set-3"
+          },
+          {
+            "name": "0391 FERNOMON",
+            "src": "assets/cards/set-3/3_0391_FERNOMON_STANDARD_SET_BASE PP.avif",
+            "alt": "0391 FERNOMON - Standard card from set-3"
+          },
+          {
+            "name": "0392 CHINFERNAPE",
+            "src": "assets/cards/set-3/3_0392_CHINFERNAPE_STANDARD_SET_BASE PP.avif",
+            "alt": "0392 CHINFERNAPE - Standard card from set-3"
+          },
+          {
+            "name": "0393 PIPLAP",
+            "src": "assets/cards/set-3/3_0393_PIPLAP_STANDARD_SET_BASE PP.avif",
+            "alt": "0393 PIPLAP - Standard card from set-3"
+          },
+          {
+            "name": "0393 PLOP",
+            "src": "assets/cards/set-3/3_0393_PLOP_STANDARD_SET_ALAN.avif",
+            "alt": "0393 PLOP - Standard card from set-3"
+          },
+          {
+            "name": "0394 DRINKLUP",
+            "src": "assets/cards/set-3/3_0394_DRINKLUP_STANDARD_SET_ALAN.avif",
+            "alt": "0394 DRINKLUP - Standard card from set-3"
+          },
+          {
+            "name": "0394 PRINPLUMP",
+            "src": "assets/cards/set-3/3_0394_PRINPLUMP_STANDARD_SET_BASE PP.avif",
+            "alt": "0394 PRINPLUMP - Standard card from set-3"
+          },
+          {
+            "name": "0395 EMPERORLEON",
+            "src": "assets/cards/set-3/3_0395_EMPERORLEON_STANDARD_SET_BASE PP.avif",
+            "alt": "0395 EMPERORLEON - Standard card from set-3"
+          },
+          {
+            "name": "0395 EMPOLEMON",
+            "src": "assets/cards/set-3/3_0395_EMPOLEMON_STANDARD_SET_ALAN.avif",
+            "alt": "0395 EMPOLEMON - Standard card from set-3"
+          },
+          {
+            "name": "0406 BUDDEW",
+            "src": "assets/cards/set-3/3_0406_BUDDEW_STANDARD_SET_SOPHIA.avif",
+            "alt": "0406 BUDDEW - Standard card from set-3"
+          },
+          {
+            "name": "0407 ROSERAZE",
+            "src": "assets/cards/set-3/3_0407_ROSERAZE_STANDARD_SET_SOPHIA.avif",
+            "alt": "0407 ROSERAZE - Standard card from set-3"
+          },
+          {
+            "name": "0418 FREEZEL",
+            "src": "assets/cards/set-3/3_0418_FREEZEL_STANDARD_SET_HAYDEN.avif",
+            "alt": "0418 FREEZEL - Standard card from set-3"
+          },
+          {
+            "name": "0419 FLOWTZEL",
+            "src": "assets/cards/set-3/3_0419_FLOWTZEL_STANDARD_SET_HAYDEN.avif",
+            "alt": "0419 FLOWTZEL - Standard card from set-3"
+          },
+          {
+            "name": "0436 BRONZORANGE",
+            "src": "assets/cards/set-3/3_0436_BRONZORANGE_STANDARD_SET_BASE PP.avif",
+            "alt": "0436 BRONZORANGE - Standard card from set-3"
+          },
+          {
+            "name": "0437 GOLDZONG",
+            "src": "assets/cards/set-3/3_0437_GOLDZONG_STANDARD_SET_BASE PP.avif",
+            "alt": "0437 GOLDZONG - Standard card from set-3"
+          },
+          {
+            "name": "0462 MANGAZONE",
+            "src": "assets/cards/set-3/3_0462_MANGAZONE_STANDARD_SET_BASE PP.avif",
+            "alt": "0462 MANGAZONE - Standard card from set-3"
+          },
+          {
+            "name": "0468 TOGEPISSED",
+            "src": "assets/cards/set-3/3_0468_TOGEPISSED_STANDARD_SET_TRINITY.avif",
+            "alt": "0468 TOGEPISSED - Standard card from set-3"
+          },
+          {
+            "name": "0475 GALLEMONADE",
+            "src": "assets/cards/set-3/3_0475_GALLEMONADE_STANDARD_SET_BASE PP.avif",
+            "alt": "0475 GALLEMONADE - Standard card from set-3"
+          },
+          {
+            "name": "0479 BLOWTOM",
+            "src": "assets/cards/set-3/3_0479_BLOWTOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0479 BLOWTOM - Standard card from set-3"
+          },
+          {
+            "name": "0486 REGIKICKASS",
+            "src": "assets/cards/set-3/3_0486_REGIKICKASS_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0486 REGIKICKASS - Standard card from set-3"
+          },
+          {
+            "name": "0489 SYMPHIONE",
+            "src": "assets/cards/set-3/3_0489_SYMPHIONE_STANDARD_PROMO_BASE PP.avif",
+            "alt": "0489 SYMPHIONE - Standard card from set-3"
+          },
+          {
+            "name": "0492 SHYMIN",
+            "src": "assets/cards/set-3/3_0492_SHYMIN_STANDARD_SET_TRINITY.avif",
+            "alt": "0492 SHYMIN - Standard card from set-3"
+          },
+          {
+            "name": "0493 ARCESUS",
+            "src": "assets/cards/set-3/3_0493_ARCESUS_STANDARD_SET_BASE PP.avif",
+            "alt": "0493 ARCESUS - Standard card from set-3"
+          },
+          {
+            "name": "0529 PILLBUR",
+            "src": "assets/cards/set-3/3_0529_PILLBUR_STANDARD_SET_REX.avif",
+            "alt": "0529 PILLBUR - Standard card from set-3"
+          },
+          {
+            "name": "0530 REJECT-A-PILL",
+            "src": "assets/cards/set-3/3_0530_REJECT-A-PILL_STANDARD_SET_REX.avif",
+            "alt": "0530 REJECT-A-PILL - Standard card from set-3"
+          },
+          {
+            "name": "0551 SANDILLY",
+            "src": "assets/cards/set-3/3_0551_SANDILLY_STANDARD_SET_BASE PP.avif",
+            "alt": "0551 SANDILLY - Standard card from set-3"
+          },
+          {
+            "name": "0552 KROKOROCK",
+            "src": "assets/cards/set-3/3_0552_KROKOROCK_STANDARD_SET_BASE PP.avif",
+            "alt": "0552 KROKOROCK - Standard card from set-3"
+          },
+          {
+            "name": "0553 CREW CUTDILE",
+            "src": "assets/cards/set-3/3_0553_CREW CUTDILE_STANDARD_SET_BASE PP.avif",
+            "alt": "0553 CREW CUTDILE - Standard card from set-3"
+          },
+          {
+            "name": "0556 MARRAKIS",
+            "src": "assets/cards/set-3/3_0556_MARRAKIS_STANDARD_SET_BASE PP.avif",
+            "alt": "0556 MARRAKIS - Standard card from set-3"
+          },
+          {
+            "name": "0570 ZORULA",
+            "src": "assets/cards/set-3/3_0570_ZORULA_STANDARD_SET_BASE PP.avif",
+            "alt": "0570 ZORULA - Standard card from set-3"
+          },
+          {
+            "name": "0571 ZOROROCK",
+            "src": "assets/cards/set-3/3_0571_ZOROROCK_STANDARD_SET_BASE PP.avif",
+            "alt": "0571 ZOROROCK - Standard card from set-3"
+          },
+          {
+            "name": "0587 EMOGA",
+            "src": "assets/cards/set-3/3_0587_EMOGA_STANDARD_SET_TRINITY.avif",
+            "alt": "0587 EMOGA - Standard card from set-3"
+          },
+          {
+            "name": "0619 MIENFLU",
+            "src": "assets/cards/set-3/3_0619_MIENFLU_STANDARD_SET_BASE PP.avif",
+            "alt": "0619 MIENFLU - Standard card from set-3"
+          },
+          {
+            "name": "0620 MIENTIAO",
+            "src": "assets/cards/set-3/3_0620_MIENTIAO_STANDARD_SET_BASE PP.avif",
+            "alt": "0620 MIENTIAO - Standard card from set-3"
+          },
+          {
+            "name": "0633 DEINOSE",
+            "src": "assets/cards/set-3/3_0633_DEINOSE_STANDARD_SET_BASE PP.avif",
+            "alt": "0633 DEINOSE - Standard card from set-3"
+          },
+          {
+            "name": "0634 JOYLESS",
+            "src": "assets/cards/set-3/3_0634_JOYLESS_STANDARD_SET_BASE PP.avif",
+            "alt": "0634 JOYLESS - Standard card from set-3"
+          },
+          {
+            "name": "0635 HI DRAGON",
+            "src": "assets/cards/set-3/3_0635_HI DRAGON_STANDARD_SET_BASE PP.avif",
+            "alt": "0635 HI DRAGON - Standard card from set-3"
+          },
+          {
+            "name": "0649 NEW GENESECT",
+            "src": "assets/cards/set-3/3_0649_NEW GENESECT_STANDARD_SET_BASE PP.avif",
+            "alt": "0649 NEW GENESECT - Standard card from set-3"
+          },
+          {
+            "name": "0650 CHAIRSPIN",
+            "src": "assets/cards/set-3/3_0650_CHAIRSPIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0650 CHAIRSPIN - Standard card from set-3"
+          },
+          {
+            "name": "0653 FENNECKIN",
+            "src": "assets/cards/set-3/3_0653_FENNECKIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0653 FENNECKIN - Standard card from set-3"
+          },
+          {
+            "name": "0656 FREAKY",
+            "src": "assets/cards/set-3/3_0656_FREAKY_STANDARD_SET_BASE PP.avif",
+            "alt": "0656 FREAKY - Standard card from set-3"
+          },
+          {
+            "name": "0702 DEDINNER",
+            "src": "assets/cards/set-3/3_0702_DEDINNER_STANDARD_SET_BASE PP.avif",
+            "alt": "0702 DEDINNER - Standard card from set-3"
+          },
+          {
+            "name": "0703 CARBWINK",
+            "src": "assets/cards/set-3/3_0703_CARBWINK_STANDARD_SET_BASE PP.avif",
+            "alt": "0703 CARBWINK - Standard card from set-3"
+          },
+          {
+            "name": "0704 GOOM",
+            "src": "assets/cards/set-3/3_0704_GOOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0704 GOOM - Standard card from set-3"
+          },
+          {
+            "name": "0705 SLUG",
+            "src": "assets/cards/set-3/3_0705_SLUG_STANDARD_SET_BASE PP.avif",
+            "alt": "0705 SLUG - Standard card from set-3"
+          },
+          {
+            "name": "0706 BADRA",
+            "src": "assets/cards/set-3/3_0706_BADRA_STANDARD_SET_BASE PP.avif",
+            "alt": "0706 BADRA - Standard card from set-3"
+          },
+          {
+            "name": "0719 DIANCER",
+            "src": "assets/cards/set-3/3_0719_DIANCER_STANDARD_SET_BASE PP.avif",
+            "alt": "0719 DIANCER - Standard card from set-3"
+          },
+          {
+            "name": "0778 MIMICUTE",
+            "src": "assets/cards/set-3/3_0778_MIMICUTE_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0778 MIMICUTE - Standard card from set-3"
+          },
+          {
+            "name": "0780 DRAMAPA",
+            "src": "assets/cards/set-3/3_0780_DRAMAPA_STANDARD_SET_SOPHIA.avif",
+            "alt": "0780 DRAMAPA - Standard card from set-3"
+          },
+          {
+            "name": "0793 LEGO NIHI",
+            "src": "assets/cards/set-3/3_0793_LEGO NIHI_STANDARD_SET_BASE PP.avif",
+            "alt": "0793 LEGO NIHI - Standard card from set-3"
+          },
+          {
+            "name": "0794 BUZZSWOLE",
+            "src": "assets/cards/set-3/3_0794_BUZZSWOLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0794 BUZZSWOLE - Standard card from set-3"
+          },
+          {
+            "name": "0802 MARKETSHADOW",
+            "src": "assets/cards/set-3/3_0802_MARKETSHADOW_STANDARD_SET_BASE PP.avif",
+            "alt": "0802 MARKETSHADOW - Standard card from set-3"
+          },
+          {
+            "name": "0806 BLACHEFALON",
+            "src": "assets/cards/set-3/3_0806_BLACHEFALON_STANDARD_SET_BASE PP.avif",
+            "alt": "0806 BLACHEFALON - Standard card from set-3"
+          },
+          {
+            "name": "0833 AHCHOOTLE",
+            "src": "assets/cards/set-3/3_0833_AHCHOOTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0833 AHCHOOTLE - Standard card from set-3"
+          },
+          {
+            "name": "0834 DREAD MAW",
+            "src": "assets/cards/set-3/3_0834_DREAD MAW_STANDARD_SET_BASE PP.avif",
+            "alt": "0834 DREAD MAW - Standard card from set-3"
+          },
+          {
+            "name": "0848 TOXSPELL",
+            "src": "assets/cards/set-3/3_0848_TOXSPELL_STANDARD_SET_BASE PP.avif",
+            "alt": "0848 TOXSPELL - Standard card from set-3"
+          },
+          {
+            "name": "0849 TOXTRICITY BOY",
+            "src": "assets/cards/set-3/3_0849_TOXTRICITY BOY_STANDARD_SET_BASE PP.avif",
+            "alt": "0849 TOXTRICITY BOY - Standard card from set-3"
+          },
+          {
+            "name": "0850 SCISSORPEDE",
+            "src": "assets/cards/set-3/3_0850_SCISSORPEDE_STANDARD_SET_BASE PP.avif",
+            "alt": "0850 SCISSORPEDE - Standard card from set-3"
+          },
+          {
+            "name": "0851 MILLISKORCH",
+            "src": "assets/cards/set-3/3_0851_MILLISKORCH_STANDARD_SET_BASE PP.avif",
+            "alt": "0851 MILLISKORCH - Standard card from set-3"
+          },
+          {
+            "name": "0870 PRAYLINKS",
+            "src": "assets/cards/set-3/3_0870_PRAYLINKS_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0870 PRAYLINKS - Standard card from set-3"
+          },
+          {
+            "name": "0875 EISCUBA",
+            "src": "assets/cards/set-3/3_0875_EISCUBA_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0875 EISCUBA - Standard card from set-3"
+          },
+          {
+            "name": "0877 MORE MORE MOREPEKO!",
+            "src": "assets/cards/set-3/3_0877_MORE MORE MOREPEKO!_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0877 MORE MORE MOREPEKO! - Standard card from set-3"
+          },
+          {
+            "name": "0885 SLEEPY",
+            "src": "assets/cards/set-3/3_0885_SLEEPY_STANDARD_SET_BASE PP.avif",
+            "alt": "0885 SLEEPY - Standard card from set-3"
+          },
+          {
+            "name": "0894 REGIELECTION",
+            "src": "assets/cards/set-3/3_0894_REGIELECTION_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0894 REGIELECTION - Standard card from set-3"
+          },
+          {
+            "name": "0895 REGIDRAMOE",
+            "src": "assets/cards/set-3/3_0895_REGIDRAMOE_STANDARD_LIMITED_BASE PP.avif",
+            "alt": "0895 REGIDRAMOE - Standard card from set-3"
+          },
+          {
+            "name": "0951 KAPPAKID",
+            "src": "assets/cards/set-3/3_0951_KAPPAKID_STANDARD_SET_BASE PP.avif",
+            "alt": "0951 KAPPAKID - Standard card from set-3"
+          },
+          {
+            "name": "0952 CIVILIAN",
+            "src": "assets/cards/set-3/3_0952_CIVILIAN_STANDARD_SET_BASE PP.avif",
+            "alt": "0952 CIVILIAN - Standard card from set-3"
+          },
+          {
+            "name": "0973 FLAMEIGO",
+            "src": "assets/cards/set-3/3_0973_FLAMEIGO_STANDARD_SET_BASE PP.avif",
+            "alt": "0973 FLAMEIGO - Standard card from set-3"
+          }
+        ],
+        "fullArt": [
+          {
+            "name": "0038 NINE-TAILS",
+            "src": "assets/cards/set-3/3_0038_NINE-TAILS_FULL ART_SET_BASE PP.avif",
+            "alt": "0038 NINE-TAILS - Full Art card from set-3"
+          },
+          {
+            "name": "0058 GANGLITHE",
+            "src": "assets/cards/set-3/3_0058_GANGLITHE_FULL ART_SET_STEPHEN.avif",
+            "alt": "0058 GANGLITHE - Full Art card from set-3"
+          },
+          {
+            "name": "0079 SLOWPOPE",
+            "src": "assets/cards/set-3/3_0079_SLOWPOPE_FULL ART_SET_BASE PP.avif",
+            "alt": "0079 SLOWPOPE - Full Art card from set-3"
+          },
+          {
+            "name": "0094 BANGER",
+            "src": "assets/cards/set-3/3_0094_BANGER_FULL ART_SET_BASE PP.avif",
+            "alt": "0094 BANGER - Full Art card from set-3"
+          },
+          {
+            "name": "0143 SNOWLAX",
+            "src": "assets/cards/set-3/3_0143_SNOWLAX_FULL ART_SET_WYMAN.avif",
+            "alt": "0143 SNOWLAX - Full Art card from set-3"
+          },
+          {
+            "name": "0151 MEWSICAL",
+            "src": "assets/cards/set-3/3_0151_MEWSICAL_FULL ART_SET_BASE PP.avif",
+            "alt": "0151 MEWSICAL - Full Art card from set-3"
+          },
+          {
+            "name": "0162 TURRET",
+            "src": "assets/cards/set-3/3_0162_TURRET_FULL ART_SET_HAYDEN.avif",
+            "alt": "0162 TURRET - Full Art card from set-3"
+          },
+          {
+            "name": "0194 SUPER",
+            "src": "assets/cards/set-3/3_0194_SUPER_FULL ART_SET_BASE PP.avif",
+            "alt": "0194 SUPER - Full Art card from set-3"
+          },
+          {
+            "name": "0363 SO FEEL",
+            "src": "assets/cards/set-3/3_0363_SO FEEL_FULL ART_SET_HAYDEN.avif",
+            "alt": "0363 SO FEEL - Full Art card from set-3"
+          },
+          {
+            "name": "0387 TURTWING",
+            "src": "assets/cards/set-3/3_0387_TURTWING_FULL ART_SET_WYMAN.avif",
+            "alt": "0387 TURTWING - Full Art card from set-3"
+          },
+          {
+            "name": "0395 TEMPOLEON",
+            "src": "assets/cards/set-3/3_0395_TEMPOLEON_FULL ART_SET_ALAN.avif",
+            "alt": "0395 TEMPOLEON - Full Art card from set-3"
+          },
+          {
+            "name": "0443 DRIBBLE",
+            "src": "assets/cards/set-3/3_0443_DRIBBLE_FULL ART_SET_TOMMY.avif",
+            "alt": "0443 DRIBBLE - Full Art card from set-3"
+          },
+          {
+            "name": "0443 SCRIBBLE",
+            "src": "assets/cards/set-3/3_0443_SCRIBBLE_FULL ART_SET_BASE PP.avif",
+            "alt": "0443 SCRIBBLE - Full Art card from set-3"
+          },
+          {
+            "name": "0444 GAB NITE",
+            "src": "assets/cards/set-3/3_0444_GAB NITE_FULL ART_SET_TOMMY.avif",
+            "alt": "0444 GAB NITE - Full Art card from set-3"
+          },
+          {
+            "name": "0445 GLASSCHOMP",
+            "src": "assets/cards/set-3/3_0445_GLASSCHOMP_FULL ART_SET_TOMMY.avif",
+            "alt": "0445 GLASSCHOMP - Full Art card from set-3"
+          },
+          {
+            "name": "0480 YOU SEE",
+            "src": "assets/cards/set-3/3_0480_YOU SEE_FULL ART_SET_BASE PP.avif",
+            "alt": "0480 YOU SEE - Full Art card from set-3"
+          },
+          {
+            "name": "0481 MESPRITE",
+            "src": "assets/cards/set-3/3_0481_MESPRITE_FULL ART_SET_BASE PP.avif",
+            "alt": "0481 MESPRITE - Full Art card from set-3"
+          },
+          {
+            "name": "0574 LOMUNNY",
+            "src": "assets/cards/set-3/3_0574_LOMUNNY_FULL ART_SET_SHANG.avif",
+            "alt": "0574 LOMUNNY - Full Art card from set-3"
+          },
+          {
+            "name": "0840 NAPPLIN",
+            "src": "assets/cards/set-3/3_0840_NAPPLIN_FULL ART_SET_HAYDEN.avif",
+            "alt": "0840 NAPPLIN - Full Art card from set-3"
+          },
+          {
+            "name": "0890 MASTER ETERNAMAX",
+            "src": "assets/cards/set-3/3_0890_MASTER ETERNAMAX_FULL ART_SET_BASE PP.avif",
+            "alt": "0890 MASTER ETERNAMAX - Full Art card from set-3"
+          },
+          {
+            "name": "0978 TATSUGIRI DELUXE SET",
+            "src": "assets/cards/set-3/3_0978_TATSUGIRI DELUXE SET_FULL ART_SET_BASE PP.avif",
+            "alt": "0978 TATSUGIRI DELUXE SET - Full Art card from set-3"
+          },
+          {
+            "name": "0980 CLOUDSIRE",
+            "src": "assets/cards/set-3/3_0980_CLOUDSIRE_FULL ART_SET_BASE PP.avif",
+            "alt": "0980 CLOUDSIRE - Full Art card from set-3"
+          },
+          {
+            "name": "1007 COOL RIDEON",
+            "src": "assets/cards/set-3/3_1007_COOL RIDEON_FULL ART_SET_BASE PP.avif",
+            "alt": "1007 COOL RIDEON - Full Art card from set-3"
+          }
+        ],
+        "moment": [
+          {
+            "name": "HI-FIVE",
+            "src": "assets/cards/set-3/3_MOMENT_HI-FIVE_FULL ART_SET_BASE PP.avif",
+            "alt": "HI-FIVE - Moment card from set-3"
+          }
+        ],
+        "aceTrainer": [
+          {
+            "name": "LYRA AND ESPEON",
+            "src": "assets/cards/set-3/3_ACE TRAINER_LYRA AND ESPEON_FULL ART_SET_TRINITY.avif",
+            "alt": "LYRA AND ESPEON - Ace Trainer card from set-3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "set-3.5",
+      "code": "VTY",
+      "title": "Café Verity",
+      "slug": "set-3.5",
+      "accent": "#c08552",
+      "accentSoft": "rgba(192, 133, 82, 0.14)",
+      "glow": "rgba(192, 133, 82, 0.42)",
+      "cards": {
+        "standard": [
+          {
+            "name": "0001 BOBASAUR",
+            "src": "assets/cards/set-3.5/3.5_0001_BOBASAUR_STANDARD_SET_BASE PP.avif",
+            "alt": "0001 BOBASAUR - Standard card from set-3.5"
+          },
+          {
+            "name": "0002 WIFEYSAUR",
+            "src": "assets/cards/set-3.5/3.5_0002_WIFEYSAUR_STANDARD_SET_BASE PP.avif",
+            "alt": "0002 WIFEYSAUR - Standard card from set-3.5"
+          },
+          {
+            "name": "0003 WIENERSAUR",
+            "src": "assets/cards/set-3.5/3.5_0003_WIENERSAUR_STANDARD_SET_BASE PP.avif",
+            "alt": "0003 WIENERSAUR - Standard card from set-3.5"
+          },
+          {
+            "name": "0004 CHAR SIUMANDER",
+            "src": "assets/cards/set-3.5/3.5_0004_CHAR SIUMANDER_STANDARD_SET_BASE PP.avif",
+            "alt": "0004 CHAR SIUMANDER - Standard card from set-3.5"
+          },
+          {
+            "name": "0005 CHARMELON",
+            "src": "assets/cards/set-3.5/3.5_0005_CHARMELON_STANDARD_SET_BASE PP.avif",
+            "alt": "0005 CHARMELON - Standard card from set-3.5"
+          },
+          {
+            "name": "0006 CHARIZZARD",
+            "src": "assets/cards/set-3.5/3.5_0006_CHARIZZARD_STANDARD_SET_BASE PP.avif",
+            "alt": "0006 CHARIZZARD - Standard card from set-3.5"
+          },
+          {
+            "name": "0007 SKRRT SKRRTLE",
+            "src": "assets/cards/set-3.5/3.5_0007_SKRRT SKRRTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0007 SKRRT SKRRTLE - Standard card from set-3.5"
+          },
+          {
+            "name": "0008 WAITERTLE",
+            "src": "assets/cards/set-3.5/3.5_0008_WAITERTLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0008 WAITERTLE - Standard card from set-3.5"
+          },
+          {
+            "name": "0009 BOSSTOISE",
+            "src": "assets/cards/set-3.5/3.5_0009_BOSSTOISE_STANDARD_SET_BASE PP.avif",
+            "alt": "0009 BOSSTOISE - Standard card from set-3.5"
+          },
+          {
+            "name": "0019 RATTATOUILLE",
+            "src": "assets/cards/set-3.5/3.5_0019_RATTATOUILLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0019 RATTATOUILLE - Standard card from set-3.5"
+          },
+          {
+            "name": "0020 RATICRATE",
+            "src": "assets/cards/set-3.5/3.5_0020_RATICRATE_STANDARD_SET_BASE PP.avif",
+            "alt": "0020 RATICRATE - Standard card from set-3.5"
+          },
+          {
+            "name": "0025 PIKACHEERS",
+            "src": "assets/cards/set-3.5/3.5_0025_PIKACHEERS_STANDARD_SET_BASE PP.avif",
+            "alt": "0025 PIKACHEERS - Standard card from set-3.5"
+          },
+          {
+            "name": "0058 WOWLITHE",
+            "src": "assets/cards/set-3.5/3.5_0058_WOWLITHE_STANDARD_SET_BASE PP.avif",
+            "alt": "0058 WOWLITHE - Standard card from set-3.5"
+          },
+          {
+            "name": "0077 PONYTAIL",
+            "src": "assets/cards/set-3.5/3.5_0077_PONYTAIL_STANDARD_SET_BASE PP.avif",
+            "alt": "0077 PONYTAIL - Standard card from set-3.5"
+          },
+          {
+            "name": "0078 RAPIDASHING",
+            "src": "assets/cards/set-3.5/3.5_0078_RAPIDASHING_STANDARD_SET_BASE PP.avif",
+            "alt": "0078 RAPIDASHING - Standard card from set-3.5"
+          },
+          {
+            "name": "0079 SLOWPOKE BOWL",
+            "src": "assets/cards/set-3.5/3.5_0079_SLOWPOKE BOWL_STANDARD_SET_BASE PP.avif",
+            "alt": "0079 SLOWPOKE BOWL - Standard card from set-3.5"
+          },
+          {
+            "name": "0080 SLOW FRO",
+            "src": "assets/cards/set-3.5/3.5_0080_SLOW FRO_STANDARD_SET_BASE PP.avif",
+            "alt": "0080 SLOW FRO - Standard card from set-3.5"
+          },
+          {
+            "name": "0113 CHANSEY ENCOUNTER",
+            "src": "assets/cards/set-3.5/3.5_0113_CHANSEY ENCOUNTER_STANDARD_SET_BASE PP.avif",
+            "alt": "0113 CHANSEY ENCOUNTER - Standard card from set-3.5"
+          },
+          {
+            "name": "0124 DRINKS",
+            "src": "assets/cards/set-3.5/3.5_0124_DRINKS_STANDARD_SET_BASE PP.avif",
+            "alt": "0124 DRINKS - Standard card from set-3.5"
+          },
+          {
+            "name": "0132 DATE O",
+            "src": "assets/cards/set-3.5/3.5_0132_DATE O_STANDARD_SET_BASE PP.avif",
+            "alt": "0132 DATE O - Standard card from set-3.5"
+          },
+          {
+            "name": "0133 EZY",
+            "src": "assets/cards/set-3.5/3.5_0133_EZY_STANDARD_PROMO_BASE PP.avif",
+            "alt": "0133 EZY - Standard card from set-3.5"
+          },
+          {
+            "name": "0141 NAPRAS",
+            "src": "assets/cards/set-3.5/3.5_0141_NAPRAS_STANDARD_SET_BASE PP.avif",
+            "alt": "0141 NAPRAS - Standard card from set-3.5"
+          },
+          {
+            "name": "0143 SNORE N RELAX",
+            "src": "assets/cards/set-3.5/3.5_0143_SNORE N RELAX_STANDARD_SET_BASE PP.avif",
+            "alt": "0143 SNORE N RELAX - Standard card from set-3.5"
+          },
+          {
+            "name": "0190 AYYPOM",
+            "src": "assets/cards/set-3.5/3.5_0190_AYYPOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0190 AYYPOM - Standard card from set-3.5"
+          },
+          {
+            "name": "0199 FASTKING",
+            "src": "assets/cards/set-3.5/3.5_0199_FASTKING_STANDARD_SET_BASE PP.avif",
+            "alt": "0199 FASTKING - Standard card from set-3.5"
+          },
+          {
+            "name": "0238 SMOOTHIECHUM",
+            "src": "assets/cards/set-3.5/3.5_0238_SMOOTHIECHUM_STANDARD_SET_BASE PP.avif",
+            "alt": "0238 SMOOTHIECHUM - Standard card from set-3.5"
+          },
+          {
+            "name": "0241 MILKTANK",
+            "src": "assets/cards/set-3.5/3.5_0241_MILKTANK_STANDARD_SET_BASE PP.avif",
+            "alt": "0241 MILKTANK - Standard card from set-3.5"
+          },
+          {
+            "name": "0242 MISSY",
+            "src": "assets/cards/set-3.5/3.5_0242_MISSY_STANDARD_SET_BASE PP.avif",
+            "alt": "0242 MISSY - Standard card from set-3.5"
+          },
+          {
+            "name": "0278 CHICKEN WINGULL",
+            "src": "assets/cards/set-3.5/3.5_0278_CHICKEN WINGULL_STANDARD_SET_BASE PP.avif",
+            "alt": "0278 CHICKEN WINGULL - Standard card from set-3.5"
+          },
+          {
+            "name": "0279 SALT N PELIPPER",
+            "src": "assets/cards/set-3.5/3.5_0279_SALT N PELIPPER_STANDARD_SET_BASE PP.avif",
+            "alt": "0279 SALT N PELIPPER - Standard card from set-3.5"
+          },
+          {
+            "name": "0324 TORK ROLL",
+            "src": "assets/cards/set-3.5/3.5_0324_TORK ROLL_STANDARD_SET_BASE PP.avif",
+            "alt": "0324 TORK ROLL - Standard card from set-3.5"
+          },
+          {
+            "name": "0349 SEABASS",
+            "src": "assets/cards/set-3.5/3.5_0349_SEABASS_STANDARD_SET_BASE PP.avif",
+            "alt": "0349 SEABASS - Standard card from set-3.5"
+          },
+          {
+            "name": "0350 MELODIC",
+            "src": "assets/cards/set-3.5/3.5_0350_MELODIC_STANDARD_SET_BASE PP.avif",
+            "alt": "0350 MELODIC - Standard card from set-3.5"
+          },
+          {
+            "name": "0396 STARLY DAVIDSON",
+            "src": "assets/cards/set-3.5/3.5_0396_STARLY DAVIDSON_STANDARD_SET_BASE PP.avif",
+            "alt": "0396 STARLY DAVIDSON - Standard card from set-3.5"
+          },
+          {
+            "name": "0397 STARVING",
+            "src": "assets/cards/set-3.5/3.5_0397_STARVING_STANDARD_SET_BASE PP.avif",
+            "alt": "0397 STARVING - Standard card from set-3.5"
+          },
+          {
+            "name": "0398 STARAPPER",
+            "src": "assets/cards/set-3.5/3.5_0398_STARAPPER_STANDARD_SET_BASE PP.avif",
+            "alt": "0398 STARAPPER - Standard card from set-3.5"
+          },
+          {
+            "name": "0415 WELCOMEBEE",
+            "src": "assets/cards/set-3.5/3.5_0415_WELCOMEBEE_STANDARD_SET_BASE PP.avif",
+            "alt": "0415 WELCOMEBEE - Standard card from set-3.5"
+          },
+          {
+            "name": "0416 BEST QUEEN",
+            "src": "assets/cards/set-3.5/3.5_0416_BEST QUEEN_STANDARD_SET_BASE PP.avif",
+            "alt": "0416 BEST QUEEN - Standard card from set-3.5"
+          },
+          {
+            "name": "0417 MACHI MACHIRISU",
+            "src": "assets/cards/set-3.5/3.5_0417_MACHI MACHIRISU_STANDARD_SET_BASE PP.avif",
+            "alt": "0417 MACHI MACHIRISU - Standard card from set-3.5"
+          },
+          {
+            "name": "0424 AMBIENTPOM",
+            "src": "assets/cards/set-3.5/3.5_0424_AMBIENTPOM_STANDARD_SET_BASE PP.avif",
+            "alt": "0424 AMBIENTPOM - Standard card from set-3.5"
+          },
+          {
+            "name": "0427 BUNNY",
+            "src": "assets/cards/set-3.5/3.5_0427_BUNNY_STANDARD_SET_BASE PP.avif",
+            "alt": "0427 BUNNY - Standard card from set-3.5"
+          },
+          {
+            "name": "00428 LOFIPUNNY",
+            "src": "assets/cards/set-3.5/3.5_00428_LOFIPUNNY_STANDARD_SET_BASE PP.avif",
+            "alt": "00428 LOFIPUNNY - Standard card from set-3.5"
+          },
+          {
+            "name": "0438 BON APPETITESLY",
+            "src": "assets/cards/set-3.5/3.5_0438_BON APPETITESLY_STANDARD_SET_BASE PP.avif",
+            "alt": "0438 BON APPETITESLY - Standard card from set-3.5"
+          },
+          {
+            "name": "0440 HAPPY",
+            "src": "assets/cards/set-3.5/3.5_0440_HAPPY_STANDARD_SET_BASE PP.avif",
+            "alt": "0440 HAPPY - Standard card from set-3.5"
+          },
+          {
+            "name": "0443 GOBBLE",
+            "src": "assets/cards/set-3.5/3.5_0443_GOBBLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0443 GOBBLE - Standard card from set-3.5"
+          },
+          {
+            "name": "0446 MUNCH N RELAX",
+            "src": "assets/cards/set-3.5/3.5_0446_MUNCH N RELAX_STANDARD_SET_BASE PP.avif",
+            "alt": "0446 MUNCH N RELAX - Standard card from set-3.5"
+          },
+          {
+            "name": "0446 MUNCHSNACKS",
+            "src": "assets/cards/set-3.5/3.5_0446_MUNCHSNACKS_STANDARD_SET_BASE PP.avif",
+            "alt": "0446 MUNCHSNACKS - Standard card from set-3.5"
+          },
+          {
+            "name": "0489 PHONE",
+            "src": "assets/cards/set-3.5/3.5_0489_PHONE_STANDARD_SET_BASE PP.avif",
+            "alt": "0489 PHONE - Standard card from set-3.5"
+          },
+          {
+            "name": "0490 BANANAPHY",
+            "src": "assets/cards/set-3.5/3.5_0490_BANANAPHY_STANDARD_SET_BASE PP.avif",
+            "alt": "0490 BANANAPHY - Standard card from set-3.5"
+          },
+          {
+            "name": "0492 SHADEMIN",
+            "src": "assets/cards/set-3.5/3.5_0492_SHADEMIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0492 SHADEMIN - Standard card from set-3.5"
+          },
+          {
+            "name": "0492 SHAKEMIN",
+            "src": "assets/cards/set-3.5/3.5_0492_SHAKEMIN_STANDARD_SET_BASE PP.avif",
+            "alt": "0492 SHAKEMIN - Standard card from set-3.5"
+          },
+          {
+            "name": "0517 MUNNA NEW YEAR",
+            "src": "assets/cards/set-3.5/3.5_0517_MUNNA NEW YEAR_STANDARD_SET_BASE PP.avif",
+            "alt": "0517 MUNNA NEW YEAR - Standard card from set-3.5"
+          },
+          {
+            "name": "0518 MUSHAWARMA",
+            "src": "assets/cards/set-3.5/3.5_0518_MUSHAWARMA_STANDARD_SET_BASE PP.avif",
+            "alt": "0518 MUSHAWARMA - Standard card from set-3.5"
+          },
+          {
+            "name": "0531 STRAWDINO",
+            "src": "assets/cards/set-3.5/3.5_0531_STRAWDINO_STANDARD_SET_BASE PP.avif",
+            "alt": "0531 STRAWDINO - Standard card from set-3.5"
+          },
+          {
+            "name": "0572 MINCHEESENO",
+            "src": "assets/cards/set-3.5/3.5_0572_MINCHEESENO_STANDARD_SET_BASE PP.avif",
+            "alt": "0572 MINCHEESENO - Standard card from set-3.5"
+          },
+          {
+            "name": "0573 CAPPUCINCCINO",
+            "src": "assets/cards/set-3.5/3.5_0573_CAPPUCINCCINO_STANDARD_SET_BASE PP.avif",
+            "alt": "0573 CAPPUCINCCINO - Standard card from set-3.5"
+          },
+          {
+            "name": "0587 EGGMOLGA",
+            "src": "assets/cards/set-3.5/3.5_0587_EGGMOLGA_STANDARD_SET_BASE PP.avif",
+            "alt": "0587 EGGMOLGA - Standard card from set-3.5"
+          },
+          {
+            "name": "0661 FETCHING",
+            "src": "assets/cards/set-3.5/3.5_0661_FETCHING_STANDARD_SET_BASE PP.avif",
+            "alt": "0661 FETCHING - Standard card from set-3.5"
+          },
+          {
+            "name": "0662 FLETCHTINDER",
+            "src": "assets/cards/set-3.5/3.5_0662_FLETCHTINDER_STANDARD_SET_BASE PP.avif",
+            "alt": "0662 FLETCHTINDER - Standard card from set-3.5"
+          },
+          {
+            "name": "0663 TALONGAME",
+            "src": "assets/cards/set-3.5/3.5_0663_TALONGAME_STANDARD_SET_BASE PP.avif",
+            "alt": "0663 TALONGAME - Standard card from set-3.5"
+          },
+          {
+            "name": "0764 COMFY",
+            "src": "assets/cards/set-3.5/3.5_0764_COMFY_STANDARD_SET_BASE PP.avif",
+            "alt": "0764 COMFY - Standard card from set-3.5"
+          },
+          {
+            "name": "0827 SIP IT",
+            "src": "assets/cards/set-3.5/3.5_0827_SIP IT_STANDARD_SET_BASE PP.avif",
+            "alt": "0827 SIP IT - Standard card from set-3.5"
+          },
+          {
+            "name": "0828 SWEETVUL",
+            "src": "assets/cards/set-3.5/3.5_0828_SWEETVUL_STANDARD_SET_BASE PP.avif",
+            "alt": "0828 SWEETVUL - Standard card from set-3.5"
+          },
+          {
+            "name": "0840 APPLIN PIE",
+            "src": "assets/cards/set-3.5/3.5_0840_APPLIN PIE_STANDARD_SET_BASE PP.avif",
+            "alt": "0840 APPLIN PIE - Standard card from set-3.5"
+          },
+          {
+            "name": "0841 FLAPPLE CRUMBLE",
+            "src": "assets/cards/set-3.5/3.5_0841_FLAPPLE CRUMBLE_STANDARD_SET_BASE PP.avif",
+            "alt": "0841 FLAPPLE CRUMBLE - Standard card from set-3.5"
+          },
+          {
+            "name": "0842 APPLE BUN",
+            "src": "assets/cards/set-3.5/3.5_0842_APPLE BUN_STANDARD_SET_BASE PP.avif",
+            "alt": "0842 APPLE BUN - Standard card from set-3.5"
+          },
+          {
+            "name": "0868 MILKY",
+            "src": "assets/cards/set-3.5/3.5_0868_MILKY_STANDARD_SET_BASE PP.avif",
+            "alt": "0868 MILKY - Standard card from set-3.5"
+          },
+          {
+            "name": "0869 CREAMY",
+            "src": "assets/cards/set-3.5/3.5_0869_CREAMY_STANDARD_SET_BASE PP.avif",
+            "alt": "0869 CREAMY - Standard card from set-3.5"
+          },
+          {
+            "name": "0926 SOURFIDOUGH",
+            "src": "assets/cards/set-3.5/3.5_0926_SOURFIDOUGH_STANDARD_SET_BASE PP.avif",
+            "alt": "0926 SOURFIDOUGH - Standard card from set-3.5"
+          },
+          {
+            "name": "0927 HASHBROWN",
+            "src": "assets/cards/set-3.5/3.5_0927_HASHBROWN_STANDARD_SET_BASE PP.avif",
+            "alt": "0927 HASHBROWN - Standard card from set-3.5"
+          },
+          {
+            "name": "1012 POLTCHAGUY",
+            "src": "assets/cards/set-3.5/3.5_1012_POLTCHAGUY_STANDARD_SET_BASE PP.avif",
+            "alt": "1012 POLTCHAGUY - Standard card from set-3.5"
+          },
+          {
+            "name": "1013 SINISBRAH",
+            "src": "assets/cards/set-3.5/3.5_1013_SINISBRAH_STANDARD_SET_BASE PP.avif",
+            "alt": "1013 SINISBRAH - Standard card from set-3.5"
+          }
+        ],
+        "fullArt": [
+          {
+            "name": "0134 VA POUREON",
+            "src": "assets/cards/set-3.5/3.5_0134_VA POUREON_FULL ART_SET_BASE PP.avif",
+            "alt": "0134 VA POUREON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0135 BOWLTEON",
+            "src": "assets/cards/set-3.5/3.5_0135_BOWLTEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0135 BOWLTEON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0136 FLOWEREON",
+            "src": "assets/cards/set-3.5/3.5_0136_FLOWEREON_FULL ART_SET_BASE PP.avif",
+            "alt": "0136 FLOWEREON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0196 ESPRESSEON",
+            "src": "assets/cards/set-3.5/3.5_0196_ESPRESSEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0196 ESPRESSEON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0197 UMBRELLEON",
+            "src": "assets/cards/set-3.5/3.5_0197_UMBRELLEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0197 UMBRELLEON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0470 TEAFEON",
+            "src": "assets/cards/set-3.5/3.5_0470_TEAFEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0470 TEAFEON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0471 GLAZEON",
+            "src": "assets/cards/set-3.5/3.5_0471_GLAZEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0471 GLAZEON - Full Art card from set-3.5"
+          },
+          {
+            "name": "0700 SPILLVEON",
+            "src": "assets/cards/set-3.5/3.5_0700_SPILLVEON_FULL ART_SET_BASE PP.avif",
+            "alt": "0700 SPILLVEON - Full Art card from set-3.5"
+          }
+        ],
+        "moment": [
+          {
+            "name": "A LONG DAY",
+            "src": "assets/cards/set-3.5/3.5_MOMENT_A LONG DAY_FULL ART_SET_BASE PP.avif",
+            "alt": "A LONG DAY - Moment card from set-3.5"
+          },
+          {
+            "name": "CLOSING TIME",
+            "src": "assets/cards/set-3.5/3.5_MOMENT_CLOSING TIME_FULL ART_SET_BASE PP.avif",
+            "alt": "CLOSING TIME - Moment card from set-3.5"
+          },
+          {
+            "name": "FINISHING TOUCHES",
+            "src": "assets/cards/set-3.5/3.5_MOMENT_FINISHING TOUCHES_FULL ART_SET_BASE PP.avif",
+            "alt": "FINISHING TOUCHES - Moment card from set-3.5"
+          },
+          {
+            "name": "FIRE!",
+            "src": "assets/cards/set-3.5/3.5_MOMENT_FIRE!_FULL ART_SET_BASE PP.avif",
+            "alt": "FIRE! - Moment card from set-3.5"
+          },
+          {
+            "name": "WELCOME TO CAFE VERITY!",
+            "src": "assets/cards/set-3.5/3.5_MOMENT_WELCOME TO CAFE VERITY!_FULL ART_SET_BASE PP.avif",
+            "alt": "WELCOME TO CAFE VERITY! - Moment card from set-3.5"
+          }
+        ],
+        "aceTrainer": [
+          {
+            "name": "MOCHA AND EEVEE",
+            "src": "assets/cards/set-3.5/3.5_ACE TRAINER_MOCHA AND EEVEE_FULL ART_SET_BASE PP.avif",
+            "alt": "MOCHA AND EEVEE - Ace Trainer card from set-3.5"
+          }
+        ]
+      }
+    }
+  ]
+}
