@@ -1652,6 +1652,11 @@
         ],
         "aceTrainer": [
           {
+            "name": "ETA AND MARSHADOW",
+            "src": "assets/cards/set-3/3_ACE TRAINER_ETA_AND_MARSHADOW_FULL ART_SET_BASE PP.avif",
+            "alt": "ETA AND MARSHADOW - Ace Trainer card from set-3"
+          },
+          {
             "name": "LYRA AND ESPEON",
             "src": "assets/cards/set-3/3_ACE TRAINER_LYRA AND ESPEON_FULL ART_SET_TRINITY.avif",
             "alt": "LYRA AND ESPEON - Ace Trainer card from set-3"
