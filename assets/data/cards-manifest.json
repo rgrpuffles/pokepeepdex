@@ -3608,12 +3608,12 @@
             "setNumber": "3",
             "cardType": "ace trainer",
             "pokedexNumber": null,
-            "artLevel": "standard",
-            "name": "ETA",
+            "artLevel": "full art",
+            "name": "ETA AND MARSHADOW",
             "setRelation": "base",
-            "artist": "FULL ART",
-            "src": "assets/cards/set-3/3_ACE TRAINER_ETA_AND_MARSHADOW_FULL ART_SET_BASE PP.avif",
-            "alt": "ETA - Ace Trainer card from set-3"
+            "artist": "PP",
+            "src": "assets/cards/set-3/3_ACE TRAINER_ETA AND MARSHADOW_FULL ART_SET_BASE PP.avif",
+            "alt": "ETA AND MARSHADOW - Ace Trainer card from set-3"
           },
           {
             "setNumber": "3",
