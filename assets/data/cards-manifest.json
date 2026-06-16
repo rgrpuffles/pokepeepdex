@@ -736,11 +736,11 @@
             "cardType": "standard",
             "pokedexNumber": "0282",
             "artLevel": "standard",
-            "name": "GARDEMA'AM",
+            "name": "GARDEMA",
             "setRelation": "base",
-            "artist": "PP",
-            "src": "assets/cards/set-2/2_0282_GARDEMA'AM_STANDARD_SET_BASE PP.avif",
-            "alt": "GARDEMA'AM - Standard card from set-2"
+            "artist": "SET",
+            "src": "assets/cards/set-2/2_0282_GARDEMA_AM_STANDARD_SET_BASE PP.avif",
+            "alt": "GARDEMA - Standard card from set-2"
           },
           {
             "setNumber": "2",
@@ -1755,11 +1755,11 @@
             "cardType": "standard",
             "pokedexNumber": "0083",
             "artLevel": "standard",
-            "name": "CLOSEFETCH'D",
+            "name": "CLOSEFETCH",
             "setRelation": "base",
-            "artist": "PP",
-            "src": "assets/cards/set-3/3_0083_CLOSEFETCH'D_STANDARD_SET_BASE PP.avif",
-            "alt": "CLOSEFETCH'D - Standard card from set-3"
+            "artist": "SET",
+            "src": "assets/cards/set-3/3_0083_CLOSEFETCH_D_STANDARD_SET_BASE PP.avif",
+            "alt": "CLOSEFETCH - Standard card from set-3"
           },
           {
             "setNumber": "3",
