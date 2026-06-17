@@ -1,7 +1,8 @@
 <section class="section" [attr.id]="'section-' + section.key" [attr.data-section]="section.key">
   <div class="section-head">
-    <h3 class="section-label">{{ section.label }}</h3>
-    <span class="section-count">{{ cards.length }} cards</span>
+    <div class="section-title-wrap">
+      <h3 class="section-label">{{ section.label }}</h3>
+    </div>
   </div>
 
   <div class="card-grid">

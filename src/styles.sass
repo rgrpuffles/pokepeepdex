@@ -58,8 +58,9 @@
   --surface-app-background-set-2: #1a1c28
   --surface-app-background-set-3: #ef6c00
   --surface-app-background-set-3-5: #A66341
-  --surface-app-pattern: radial-gradient(circle, transparent 20%, rgba(0, 0, 0, 0.15) 150%), repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.02) 0px, rgba(0, 0, 0, 0.02) 1px, transparent 1px, transparent 12px), linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px)
-  --surface-app-pattern-size: 100% 100%, 100% 100%, 64px 64px, 64px 64px
+  --surface-app-pattern: radial-gradient(circle, transparent 20%, rgba(0, 0, 0, 0.2) 150%), radial-gradient(circle at 17% 13%, rgba(255, 255, 255, 0.06) 0%, rgba(255, 255, 255, 0.06) 2%, rgba(0, 0, 0, 0.06) 2%, rgba(0, 0, 0, 0.06) 4%, transparent 4%, transparent 10%, rgba(0, 0, 0, 0.06) 10%, rgba(0, 0, 0, 0.06) 12%, transparent 12%), linear-gradient(transparent 12.5%, rgba(0, 0, 0, 0.04) 12.5%, rgba(0, 0, 0, 0.04) 13.5%, transparent 13.5%), radial-gradient(circle at 71% 47%, rgba(255, 255, 255, 0.04) 0%, rgba(255, 255, 255, 0.04) 2%, rgba(0, 0, 0, 0.05) 2%, rgba(0, 0, 0, 0.05) 4%, transparent 4%, transparent 10%, rgba(0, 0, 0, 0.05) 10%, rgba(0, 0, 0, 0.05) 12%, transparent 12%), linear-gradient(transparent 46.5%, rgba(0, 0, 0, 0.03) 46.5%, rgba(0, 0, 0, 0.03) 47.5%, transparent 47.5%), radial-gradient(circle at 37% 83%, rgba(255, 255, 255, 0.03) 0%, rgba(255, 255, 255, 0.03) 2%, rgba(0, 0, 0, 0.04) 2%, rgba(0, 0, 0, 0.04) 4%, transparent 4%, transparent 10%, rgba(0, 0, 0, 0.04) 10%, rgba(0, 0, 0, 0.04) 12%, transparent 12%), linear-gradient(transparent 82.5%, rgba(0, 0, 0, 0.02) 82.5%, rgba(0, 0, 0, 0.02) 83.5%, transparent 83.5%)
+  --surface-app-pattern-size: 100% 100%, 500px 500px, 500px 500px, 500px 500px, 500px 500px, 500px 500px, 500px 500px
+  --surface-app-pattern-position: 0 0, 0 0, 0 0, 0 0, 0 0, 0 0, 0 0
   --surface-page-container: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
   --surface-gallery-shell: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
   --surface-gallery-content: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
@@ -159,6 +160,7 @@ body
     inset: 0
     background-image: var(--surface-app-pattern)
     background-size: var(--surface-app-pattern-size)
+    background-position: var(--surface-app-pattern-position, 0 0)
     pointer-events: none
     z-index: -1
 

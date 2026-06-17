@@ -22,17 +22,25 @@
 .hub-title
   font-size: clamp(2.5rem, 8vw, 4rem)
   font-weight: 900
-  letter-spacing: -0.02em
-  line-height: 1
+  letter-spacing: -0.04em
+  line-height: 0.9
   margin: 0
   color: #fff
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.3)
+  display: flex
+  flex-direction: column
+  align-items: center
 
 .hub-subtitle
   display: block
-  font-size: 0.35em
-  letter-spacing: 0.4em
+  font-size: 0.28em
+  letter-spacing: 0.6em
   color: #f7a62b
-  margin-top: 0.75rem
+  margin-top: 0.5rem
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2)
+  background: rgba(0, 0, 0, 0.2)
+  padding: 4px 16px
+  border-radius: 4px
 
 .hub-shelf
   display: grid
@@ -109,9 +117,13 @@
   letter-spacing: 0.15em
 
 .set-card__title
-  font-size: 1.75rem
+  font-size: 1.85rem
   font-weight: 900
   margin: 0
-  line-height: 1.1
+  line-height: 1
   color: #1a1a1a
-  letter-spacing: -0.02em
+  letter-spacing: -0.03em
+  transition: color 0.3s ease
+
+.set-card:hover .set-card__title
+  color: var(--set-accent)

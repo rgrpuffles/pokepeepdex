@@ -50,13 +50,20 @@
 
 h2
   margin: 0
-  font-family: var(--display)
-  font-size: clamp(2rem, 4vw, 3rem)
-  line-height: 0.95
-  letter-spacing: 0.04em
+  font-family: var(--mono)
+  font-size: clamp(1.8rem, 4vw, 3rem)
+  line-height: 0.9
+  letter-spacing: -0.01em
   text-transform: uppercase
   color: #f05b28
-  text-shadow: 1px 1px 0 rgba(250, 247, 226, 0.96)
+  text-shadow: 2px 2px 0 rgba(250, 247, 226, 0.96), 4px 4px 12px rgba(0, 0, 0, 0.1)
+  transition: none
+
+.hero:hover h2
+  transform: none
+  color: #f05b28
+  text-shadow: 2px 2px 0 rgba(250, 247, 226, 0.96), 4px 4px 12px rgba(0, 0, 0, 0.1)
+
 
 .hero-note
   margin: 0.55rem 0 0
