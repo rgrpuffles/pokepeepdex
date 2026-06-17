@@ -58,6 +58,8 @@
   --surface-app-background-set-2: #1a1c28
   --surface-app-background-set-3: #ef6c00
   --surface-app-background-set-3-5: #A66341
+  --surface-app-pattern: radial-gradient(circle, transparent 20%, rgba(0, 0, 0, 0.15) 150%), repeating-linear-gradient(45deg, rgba(0, 0, 0, 0.02) 0px, rgba(0, 0, 0, 0.02) 1px, transparent 1px, transparent 12px), linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px)
+  --surface-app-pattern-size: 100% 100%, 100% 100%, 64px 64px, 64px 64px
   --surface-page-container: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
   --surface-gallery-shell: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
   --surface-gallery-content: linear-gradient(180deg, rgba(247, 243, 216, 0.52), rgba(217, 208, 168, 0.62))
@@ -151,13 +153,21 @@ body
   font-family: var(--body-font)
   overflow-x: hidden
 
+  &::before
+    content: ''
+    position: fixed
+    inset: 0
+    background-image: var(--surface-app-pattern)
+    background-size: var(--surface-app-pattern-size)
+    pointer-events: none
+    z-index: -1
+
 app-root
   display: block
 
 *
   box-sizing: border-box
 
-body::before,
 body::after
   display: none
 
