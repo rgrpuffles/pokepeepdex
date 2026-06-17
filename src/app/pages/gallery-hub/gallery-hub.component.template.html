@@ -1,0 +1,22 @@
+<main class="hub">
+  <header class="hub-header">
+    <h1 class="hub-title">POKEPEEPDEX <span class="hub-subtitle">ARCHIVE</span></h1>
+  </header>
+
+  <div class="hub-shelf">
+    @for (set of sets(); track set.id) {
+      <a [routerLink]="['/', set.slug]" 
+         class="set-card"
+         [style.--set-accent]="set.accent"
+         [style.--set-glow]="set.glow">
+        <div class="set-card__pack-wrapper">
+          <img [src]="set.packPath" [alt]="set.title + ' pack'" class="set-card__pack">
+        </div>
+        <div class="set-card__info">
+          <span class="set-card__code">SET {{ set.id.replace('set-', '') }}: {{ set.code }}</span>
+          <h2 class="set-card__title">{{ set.title }}</h2>
+        </div>
+      </a>
+    }
+  </div>
+</main>

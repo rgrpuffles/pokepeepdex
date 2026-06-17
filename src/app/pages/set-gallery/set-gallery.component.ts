@@ -66,7 +66,7 @@ export class SetGalleryComponent {
     this.router.navigate([], { queryParams, replaceUrl: true });
   }
 
-  private lastSetId = this.setId();
+  private lastSetId = '';
 
   private readonly scrollOnSetChange = effect(() => {
     const id = this.setId();
@@ -82,7 +82,7 @@ export class SetGalleryComponent {
     this.lastSetId = id;
 
     requestAnimationFrame(() => {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo({ top: 0, behavior: 'auto' });
     });
   });
 

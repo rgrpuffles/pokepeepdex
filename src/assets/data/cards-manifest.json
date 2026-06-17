@@ -1558,9 +1558,9 @@
       "code": "FFA",
       "title": "Friends From Afar",
       "slug": "set-3",
-      "accent": "#38bdf8",
-      "accentSoft": "rgba(56, 189, 248, 0.14)",
-      "glow": "rgba(56, 189, 248, 0.42)",
+      "accent": "#ef6c00",
+      "accentSoft": "rgba(239, 108, 0, 0.14)",
+      "glow": "rgba(239, 108, 0, 0.42)",
       "cards": {
         "standard": [
           {

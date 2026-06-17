@@ -1,11 +1,10 @@
 <header class="chrome">
-  <button
-    type="button"
+  <a
+    [routerLink]="isAtTop ? ['/'] : []"
     class="brand-mark"
     [class.brand-mark--caret]="!isAtTop"
-    [disabled]="isAtTop"
-    [attr.aria-label]="isAtTop ? 'Go to top' : 'Back to top'"
-    (click)="scrollToTop()"
+    [attr.aria-label]="isAtTop ? 'Go to Home' : 'Back to top'"
+    (click)="onBrandMarkClick($event)"
   >
     <span class="brand-mark__state brand-mark__state--pp" [attr.aria-hidden]="!isAtTop">
       <span class="brand-letter brand-letter--peach">P</span>
@@ -14,7 +13,7 @@
     <span class="brand-mark__state brand-mark__state--caret" [attr.aria-hidden]="isAtTop">
       <i class="brand-caret fa-solid fa-caret-up" aria-hidden="true"></i>
     </span>
-  </button>
+  </a>
 
   <nav class="set-nav" aria-label="Card sets">
     @for (set of sets; track set.id) {

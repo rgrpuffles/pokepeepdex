@@ -1,0 +1,117 @@
+.hub
+  padding: 4rem 1.5rem
+  max-width: 1200px
+  margin: 0 auto
+  min-height: 100vh
+  display: flex
+  flex-direction: column
+  gap: 4rem
+  text-transform: uppercase
+
+.hub-header
+  text-align: center
+  display: flex
+  flex-direction: column
+  gap: 1rem
+  padding: 2.5rem
+  background: var(--surface-toolbar-shell, #1a1a1a)
+  border: 4px solid var(--border-toolbar-shell, #333)
+  border-radius: 2rem
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4)
+
+.hub-title
+  font-size: clamp(2.5rem, 8vw, 4rem)
+  font-weight: 900
+  letter-spacing: -0.02em
+  line-height: 1
+  margin: 0
+  color: #fff
+
+.hub-subtitle
+  display: block
+  font-size: 0.35em
+  letter-spacing: 0.4em
+  color: #f7a62b
+  margin-top: 0.75rem
+
+.hub-shelf
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
+  gap: 2.5rem
+  padding-bottom: 6rem
+
+.set-card
+  text-decoration: none
+  color: inherit
+  display: flex
+  flex-direction: column
+  gap: 1.5rem
+  padding: 2.5rem
+  border-radius: 2.5rem
+  background: #f5f5f5
+  border: 4px solid #e0e0e0
+  transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1)
+  position: relative
+  overflow: hidden
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2)
+
+  &::before
+    content: ''
+    position: absolute
+    inset: 0
+    background: radial-gradient(circle at center, var(--set-glow), transparent 70%)
+    opacity: 0.1
+    transition: opacity 0.4s ease
+
+  &:hover
+    transform: translateY(-12px)
+    border-color: var(--set-accent)
+    border-width: 6px
+    padding: calc(2.5rem - 2px) // Offset padding to prevent layout shift from thicker border
+    background: #ffffff
+    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.15), 0 0 20px var(--set-glow), inset 0 0 0 2px rgba(255, 255, 255, 0.4)
+
+    &::before
+      opacity: 0.2
+
+    .set-card__pack
+      transform: scale(1.08) rotate(3deg)
+      filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.2))
+
+.set-card__pack-wrapper
+  aspect-ratio: 1
+  display: flex
+  align-items: center
+  justify-content: center
+  position: relative
+  z-index: 1
+
+.set-card__pack
+  width: 100%
+  height: auto
+  object-fit: contain
+  transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1), filter 0.6s ease
+  filter: drop-shadow(0 15px 30px rgba(0, 0, 0, 0.2))
+
+.set-card__info
+  position: relative
+  z-index: 1
+  display: flex
+  flex-direction: column
+  gap: 0.5rem
+  text-align: center
+
+.set-card__code
+  font-family: var(--mono, monospace)
+  font-size: 0.9rem
+  color: var(--set-accent)
+  font-weight: 800
+  letter-spacing: 0.15em
+
+.set-card__title
+  font-size: 1.75rem
+  font-weight: 900
+  margin: 0
+  line-height: 1.1
+  color: #1a1a1a
+  letter-spacing: -0.02em

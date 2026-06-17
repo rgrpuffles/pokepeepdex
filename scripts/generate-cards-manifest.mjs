@@ -37,7 +37,7 @@ const setMetadataBySet = {
 const themeBySet = {
   'set-1': { accent: '#3a86ff', accentSoft: 'rgba(58, 134, 255, 0.14)', glow: 'rgba(58, 134, 255, 0.42)' },
   'set-2': { accent: '#4f46e5', accentSoft: 'rgba(79, 70, 229, 0.14)', glow: 'rgba(79, 70, 229, 0.42)' },
-  'set-3': { accent: '#38bdf8', accentSoft: 'rgba(56, 189, 248, 0.14)', glow: 'rgba(56, 189, 248, 0.42)' },
+  'set-3': { accent: '#ef6c00', accentSoft: 'rgba(239, 108, 0, 0.14)', glow: 'rgba(239, 108, 0, 0.42)' },
   'set-3.5': { accent: '#c08552', accentSoft: 'rgba(192, 133, 82, 0.14)', glow: 'rgba(192, 133, 82, 0.42)' }
 };
 

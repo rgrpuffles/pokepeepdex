@@ -20,4 +20,11 @@ export class MenuBarComponent {
   @Input({ required: true }) sets: readonly MenuBarSet[] = [];
   @Input({ required: true }) isAtTop = true;
   @Input({ required: true }) scrollToTop!: () => void;
+
+  onBrandMarkClick(event: Event): void {
+    if (!this.isAtTop) {
+      event.preventDefault();
+      this.scrollToTop();
+    }
+  }
 }
