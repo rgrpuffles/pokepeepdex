@@ -3,7 +3,7 @@
   flex-direction: column
   gap: 16px
   width: 100%
-  scroll-margin-top: calc(var(--chrome-height, 78px) + 24px)
+  scroll-margin-top: calc(var(--chrome-height, 78px) + var(--section-scroll-margin, 2rem))
   padding: 24px
   border: 3px solid var(--section-title-text)
   border-radius: 32px
@@ -11,7 +11,6 @@
   box-shadow: 0 12px 32px rgba(0, 0, 0, 0.12), inset 0 0 0 1px rgba(255, 255, 255, 0.3)
   backdrop-filter: blur(8px) saturate(1.12)
   -webkit-backdrop-filter: blur(8px) saturate(1.12)
-  margin-top: 2rem
 
 .section[data-section='standard']
   --surface-gallery-content: linear-gradient(180deg, rgba(232, 243, 255, 0.74), rgba(181, 207, 252, 0.56))
