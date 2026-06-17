@@ -55,6 +55,18 @@ export class SetGalleryComponent {
     }
   });
 
+  private readonly validateSetId = effect(() => {
+    const manifest = this.manifest();
+    if (!manifest) return;
+
+    const id = this.setId();
+    const sets = manifest.sets;
+
+    if (!sets.some((s) => s.slug === id)) {
+      this.router.navigate(['/', defaultSetId], { replaceUrl: true, queryParamsHandling: 'preserve' });
+    }
+  });
+
   onFilterSelect(value: string): void {
     const queryParams = { ...this.route.snapshot.queryParams } as Record<string, any>;
     if (value === 'ANY') {

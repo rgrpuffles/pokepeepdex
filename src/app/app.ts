@@ -27,11 +27,7 @@ export class App {
   readonly isAtTop = signal(true);
 
   readonly sets = computed(() => {
-    const allSets = this.manifest()?.sets ?? [];
-    if (typeof window !== 'undefined' && window.location.hostname.includes('github.io')) {
-      return allSets.filter((set) => set.id !== 'set-3' && set.id !== 'set-3.5');
-    }
-    return allSets;
+    return this.manifest()?.sets ?? [];
   });
 
   ngAfterViewInit(): void {
